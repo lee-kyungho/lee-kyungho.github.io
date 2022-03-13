@@ -1,0 +1,20 @@
+remote_theme : mmistakes/minimal-mistakes
+
+url: https://lee-kyungho.github.io
+baseurl: /lee-kyungho/
+
+# Site settings
+title: Kyungho Lee
+email: kyungho.lee@yale.edu
+description: "PhD Student in Economics at Yale"
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/lee-kyungho
+
+# Postal address (add as many lines as necessary)
+
+# Build settings
+markdown: kramdown
+permalink: pretty
