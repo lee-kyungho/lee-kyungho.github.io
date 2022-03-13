@@ -5,13 +5,16 @@ baseurl: ""
 
 # Site settings
 title: Kyungho Lee
-email: kyungho.lee@yale.edu
 description: "PhD Student in Economics at Yale"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
     url: http://github.com/lee-kyungho
+
+author:
+  name: Kyungho Lee
+  email: kyungho.lee@yale.edu
 
 # Postal address (add as many lines as necessary)
 
