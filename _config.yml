@@ -1,7 +1,7 @@
 remote_theme : mmistakes/minimal-mistakes
 
 url: https://lee-kyungho.github.io
-baseurl: /lee-kyungho/
+baseurl: "/lee-kyungho"
 
 # Site settings
 title: Kyungho Lee
