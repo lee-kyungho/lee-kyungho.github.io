@@ -1,7 +1,7 @@
-remote_theme : mmistakes/minimal-mistakes
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 url: https://lee-kyungho.github.io
-baseurl: "/lee-kyungho"
+baseurl: ""
 
 # Site settings
 title: Kyungho Lee
