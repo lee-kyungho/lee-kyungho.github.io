@@ -12,7 +12,7 @@ actions:
     url: "https://github.com/lee-kyungho"
   - label: "CV"
     icon: pdf
-    url: "https://github.com/lee-kyungho/lee-kyungho.github.io/cv/CV_kyungholee.pdf"
+    url: "https://github.com/lee-kyungho/lee-kyungho.github.io/blob/main/cv/CV_kyungholee.pdf"
   - label: "Google Scholar"
     url: "https://scholar.google.com/citations?user=RIt-l2IAAAAJ&hl=en"
 ---
