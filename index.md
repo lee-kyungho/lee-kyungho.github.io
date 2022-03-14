@@ -1,7 +1,7 @@
 ---
 layout: home
 paginate: true
-alt_title: ""
+alt_title: "Kyungho Lee"
 image: /assets/images/sample_photo.jpg
 introduction: |
   Hi, I am Kyungho. PhD Student at Yale Economics.
@@ -18,7 +18,7 @@ actions:
 ---
 
 
-# Working Papers
+#  <ins>Working Papers</ins>
 
 - **Testing for Time Stochastic Dominance** (with [Oliver Linton](https://obl20.com/), [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/)) [[working paper](https://ideas.repec.org/p/cam/camdae/20121.html)]
   - *Accepted, Journal of Econometrics*
@@ -32,7 +32,7 @@ actions:
 
 - **The Effect of the EITC on the Elderly Labor**
 
-# Publication
+# <ins> Publication </ins>
 
 - **The Effect of Minimum Wage Increment on Employment and Workhours of New Workers in Korea**, (2019), *Korean Journal of Labor Economics*, 42 (2) P.63-99 
 (with Ji Hwan Kim, Jihoon Choi) [written in Korean]
