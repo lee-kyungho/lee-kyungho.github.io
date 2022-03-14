@@ -6,17 +6,14 @@ layout: page
 # Working Papers
 
 - **Testing for Time Stochastic Dominance** (with [[Oliver Linton](https://obl20.com/)], [[Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/)]) [[working paper](https://ideas.repec.org/p/cam/camdae/20121.html)]
-
--- *Accepted, Journal of Econometrics*
--- Best Graduate Student Paper, Korea Allied Economic Associations Annual Meeting 2020
+- *Accepted, Journal of Econometrics*
+- Best Graduate Student Paper, Korea Allied Economic Associations Annual Meeting 2020
 
 - **PySDTest: A Python Package for Stochastic Dominance Tests** (with [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/)) [[Github](https://github.com/lee-kyungho/pysdtest)]
-
--- <span style="color:blue"> *pip install PySDTest* text</span>
+- <span style="color:blue"> *pip install PySDTest* text</span>
 
 - **Minimum Wage, Social Insurance Mandate, and Work Hours** (with Ji Hwan Kim, [Jungmin Lee](https://sites.google.com/view/jungminlee71/))
-
--- *submitted*
+- *submitted*
 
 - **The Effect of the EITC on the Elderly Labor**
 
