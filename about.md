@@ -1,6 +1,6 @@
 ---
-title: "About"
-layout: about
+title: "Research"
+layout: page
 ---
 
-Hello
+- Testing for Time Stochastic Dominance
