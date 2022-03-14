@@ -15,9 +15,3 @@ social:
 author:
   name: Kyungho Lee
   email: kyungho.lee@yale.edu
-
-# Postal address (add as many lines as necessary)
-
-# Build settings
-markdown: kramdown
-permalink: pretty
