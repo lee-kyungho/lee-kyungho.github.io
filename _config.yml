@@ -28,12 +28,6 @@ description: "PhD Student in Economics at Yale"
 email: kyungho.lee@yale.edu
 baseurl: ""
 url: "https://lee-kyungho.github.io"
-author:
-  name: Kyungho Lee
-  twitter:
-  picture:
-twitter_username:
-github_username: lee-kyungho
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
@@ -85,11 +79,6 @@ exclude:
 
 # Front Matter Defaults
 defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      read_time: true
+  layout:home
+
    
