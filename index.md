@@ -24,7 +24,7 @@ actions:
 **Testing for Time Stochastic Dominance** (with [Oliver Linton](https://obl20.com/), [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/)) [[working paper](https://ideas.repec.org/p/cam/camdae/20121.html)]
   - *Accepted, Journal of Econometrics*
   - Best Graduate Student Paper, Korea Allied Economic Associations Annual Meeting 2020
-  - [Code](https://github.com/lee-kyungho/Testing-for-TSD)
+  - [Matlab Code](https://github.com/lee-kyungho/Testing-for-TSD)
 
 **PySDTest: A Python Package for Stochastic Dominance Tests** (with [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/)) [[Github](https://github.com/lee-kyungho/pysdtest)]
   - <span style="color:blue"> *pip install PySDTest* </span>
