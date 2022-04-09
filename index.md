@@ -29,7 +29,7 @@ actions:
 
 **The Effect of the EITC on the Elderly Labor**
 
-# <ins> Publication </ins>
+# <ins> Publications </ins>
 
 **Testing for Time Stochastic Dominance** (with [Oliver Linton](https://obl20.com/), [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/)) [[working paper](https://ideas.repec.org/p/cam/camdae/20121.html)]
   - *forthcoming, Journal of Econometrics*
