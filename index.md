@@ -4,17 +4,8 @@ paginate: true
 alt_title: "Kyungho Lee"
 image: /assets/images/sample_photo.jpg
 introduction: |
-  Hi, I am Kyungho. PhD Student at Yale Economics.
+  PhD Student at Yale Economics.
 
-actions:
-  - label: "Git"
-    icon: github
-    url: "https://github.com/lee-kyungho"
-  - label: "CV"
-    icon: pdf
-    url: "https://github.com/lee-kyungho/lee-kyungho.github.io/blob/main/cv/CV_kyungholee.pdf"
-  - label: "Google Scholar"
-    url: "https://scholar.google.com/citations?user=RIt-l2IAAAAJ&hl=en"
 ---
 
 ---
