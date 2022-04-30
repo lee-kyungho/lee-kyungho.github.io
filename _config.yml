@@ -16,7 +16,7 @@
 
 
 # Site settings
-# remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 title: "Kyungho Lee"
 baseurl: ""
@@ -29,7 +29,7 @@ github_username: lee-kyungho
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic
 plugins: # previously gems
   - jekyll-feed
   - jekyll-seo-tag
