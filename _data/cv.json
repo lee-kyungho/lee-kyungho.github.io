@@ -15,6 +15,20 @@
       "studyType": "PhD",
       "startDate": "2021",
       "endDate": "In Progress"
-    }
+    },
+    {
+      "institution": "Seoul National University",
+      "area": "Economics",
+      "studyType": "MA",
+      "startDate": "2019",
+      "endDate": "2021"
+    },
+    {
+      "institution": "Seoul National University",
+      "area": "Economics",
+      "studyType": "BA",
+      "startDate": "2013",
+      "endDate": "2019"
+    }    
   ]
 }
