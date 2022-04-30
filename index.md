@@ -1,7 +1,8 @@
 ---
 layout: home
 title: Welcome :)
-description: PhD student in Economics at Yale
+introduction: |
+  PhD student in Economics at [Yale](https://economics.yale.edu)
 
 ---
 
