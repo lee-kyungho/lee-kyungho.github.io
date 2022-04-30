@@ -2,7 +2,6 @@
 layout: home
 paginate: true
 alt_title: "Kyungho Lee"
-image: ""
 introduction: |
   PhD Student at Yale Economics.
 
