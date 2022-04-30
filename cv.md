@@ -37,8 +37,7 @@ urlcolor: blue
 
 ## Teaching Experiences
 
-TA, Seoul National University
-
+**TA, Seoul National University**
 - Basic Computing: First Adventures in Computing, 2021    
   - Undergraduate-level Python Programming
 - Studies in Econometrics, 2020
