@@ -1,13 +1,12 @@
 ---
 layout: home
 paginate: true
-alt_title: ""
-image: /assets/images/sample_photo.jpg
+alt_title: "Kyungho Lee"
+image: ""
 introduction: |
   PhD Student at Yale Economics.
 
 ---
-# Kyungho Lee
 
 #  <ins>Working Papers</ins>
 
