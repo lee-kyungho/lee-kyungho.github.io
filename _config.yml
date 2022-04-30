@@ -36,4 +36,4 @@ plugins: # previously gems
   - jekyll-sitemap
   - jekyll-paginate
 feed:
-  path: atom.xml
+  path: cv.md
