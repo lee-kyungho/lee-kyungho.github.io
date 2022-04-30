@@ -8,8 +8,6 @@ introduction: |
 
 ---
 
----
-
 #  <ins>Working Papers</ins>
 
 **PySDTest: A Python Package for Stochastic Dominance Tests** (with [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/)) [[Github](https://github.com/lee-kyungho/pysdtest)]
