@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Welcome :)
+description: PhD student in Economics at Yale
 
 ---
 
