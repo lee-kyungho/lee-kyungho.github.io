@@ -4,16 +4,20 @@ layout: post
 urlcolor: blue
 
 ---
+
 ---
+
 # Education
 
 ### Yale University
 
 - Ph.D. Economics, 2021 -  
+
 ### Seoul National University
 
 - M.A. Economics, 2021
 - B.A. Economics (Summa Cum Laude), 2019
+
 ---
 
 # Awards and Honors
@@ -40,6 +44,7 @@ urlcolor: blue
 - Research Assistant to Prof. [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/), 2019 - 2021
 - Research Assistant to Prof. [Sukjin Han](https://sukjinhan.com/), 2019 - 2020
   - Shapes as Product Differentiation: Neural Network Embedding in the Analysis of Markets for Fonts
+
 ---
 
 # Teaching Experiences
