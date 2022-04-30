@@ -7,10 +7,10 @@ urlcolor: blue
 
 ## Education
 
-Yale University
+**Yale University**
 - Ph.D. Economics, 2021 -  
 
-Seoul National University
+**Seoul National University**
 - M.A. Economics, 2021
 - B.A. Economics (Summa Cum Laude), 2019
 
