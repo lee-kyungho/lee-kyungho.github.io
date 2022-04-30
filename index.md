@@ -4,7 +4,7 @@ title: Welcome :)
 
 ---
 
-#  <ins>Working Papers</ins>
+##  <ins>Working Papers</ins>
 
 **PySDTest: A Python Package for Stochastic Dominance Tests** (with [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/)) [[Github](https://github.com/lee-kyungho/pysdtest)]
   - <span style="color:blue"> *pip install PySDTest* </span>
@@ -14,7 +14,7 @@ title: Welcome :)
 
 **The Effect of the EITC on the Elderly Labor**
 
-# <ins> Publications </ins>
+## <ins> Publications </ins>
 
 **Testing for Time Stochastic Dominance** (with [Oliver Linton](https://obl20.com/), [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/)) [[working paper](https://ideas.repec.org/p/cam/camdae/20121.html)]
   - *forthcoming, Journal of Econometrics*
