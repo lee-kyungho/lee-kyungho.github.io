@@ -4,4 +4,7 @@ layout: post
 
 ---
 
-## Test
+## Education
+
+### Yale University
+2021 - In Progress
