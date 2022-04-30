@@ -23,8 +23,6 @@ baseurl: ""
 lang: en-US
 
 # Site settings
-title: 
-description: "PhD Student in Economics at Yale"
 email: kyungho.lee@yale.edu
 baseurl: ""
 url: "https://lee-kyungho.github.io"
