@@ -33,7 +33,7 @@ layout: post
 
 - Research Assistant to Prof. Yoon-Jae Whang, 2019 - 2021
 - Research Assistant to Prof. Sukjin Han, 2019 - 2020
-- Shapes as Product Differentiation: Neural Network Embedding in the Analysis of Markets for Fonts
+  - Shapes as Product Differentiation: Neural Network Embedding in the Analysis of Markets for Fonts
 
 ## Teaching Experiences
 
