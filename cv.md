@@ -1,6 +1,7 @@
 ---
 title: Curriculum Vitae
 layout: post
+urlcolor: blue
 
 ---
 
