@@ -1,12 +1,6 @@
 {
   "basics": {
     "name": "Kyungho Lee",
-    "email": "kyungho.lee@yale.edu",
-    "location": {
-      "city": "New Haven",
-      "countryCode": "US",
-      "region": "CT"
-     }
   },
   "education": [
     {
