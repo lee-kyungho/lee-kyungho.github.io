@@ -15,7 +15,7 @@ urlcolor: blue
 - B.A. Economics (Summa Cum Laude), 2019
 
 # Awards and Honors
----
+--
 - Young Economist, [7th Lindau Nobel Laureate Meeting on Economic Sciences](https://www.lindau-nobel.org/), 2022
 - Best Graduate Student Paper, Korea Allied Economic Associations Annual Meeting, 2020
 - Grand Prize (Minister's Award), ISTANS Economics Paper Contest, Ministry of Trade,  Industry and Energy, 2019
