@@ -1,0 +1,22 @@
+
+ {
+  "basics": {
+    "name": "Kyungho Lee",
+    "picture": "",
+    "email": "kyungho.lee@yale.edu",
+    "location": {
+      "city": "New Haven",
+      "countryCode": "US",
+      "region": "CT"
+    },
+  "education": [
+    {
+      "institution": "Yale University",
+      "area": "Economics",
+      "studyType": "PhD",
+      "startDate": "2021",
+      "endDate": "In Progress"
+      ]
+    }
+  ]
+}
