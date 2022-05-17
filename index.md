@@ -12,7 +12,7 @@ introduction: |
   - <span style="color:blue"> *pip install PySDTest* </span>
 
 **Minimum Wage, Social Insurance Mandate, and Work Hours** (with Ji Hwan Kim, [Jungmin Lee](https://sites.google.com/view/jungminlee71/))
-  - *submitted*
+  - *R&R*
 
 **The Effect of the EITC on the Elderly Labor**
 
