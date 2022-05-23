@@ -18,7 +18,7 @@ introduction: |
 
 ### <ins> Publications </ins>
 
-**Testing for Time Stochastic Dominance** (with [Oliver Linton](https://obl20.com/), [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/)) [[working paper](https://ideas.repec.org/p/cam/camdae/20121.html)]
+**[Testing for Time Stochastic Dominance]((https://doi.org/10.1016/j.jeconom.2022.03.012)** (with [Oliver Linton](https://obl20.com/), [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/))
   - *forthcoming, Journal of Econometrics*
   - Best Graduate Student Paper, Korea Allied Economic Associations Annual Meeting 2020
   - [Matlab Code](https://github.com/lee-kyungho/Testing-for-TSD)
