@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome :)
+title: Welcome
 introduction: |
   I am a PhD student in Economics at [Yale](https://economics.yale.edu)
 
