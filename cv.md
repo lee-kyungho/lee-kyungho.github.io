@@ -14,14 +14,12 @@ urlcolor: blue
 - M.A. Economics, 2021
 - B.A. Economics (Summa Cum Laude), 2019
 
+
 ## Awards and Honors
 
 - Young Economist, [7th Lindau Nobel Laureate Meeting on Economic Sciences](https://www.lindau-nobel.org/), 2022
 - Best Graduate Student Paper, Korea Allied Economic Associations Annual Meeting, 2020
-- Grand Prize (Minister's Award), ISTANS Economics Paper Contest, Ministry of Trade,  Industry and Energy, 2019
-- [Grand Prize (Governor's Award)](https://academic.naver.com/article.naver?doc_id=603653347),  Financial & Economic Law Paper Contest, Bank of Korea, 2019
-- [Grand Prize](https://www.mk.co.kr/news/society/view/2019/03/138969/), 33rd Maekyung Students Economics Paper Contest, Maekyung Media Group, 2019
-- Best Paper Award (Dean's Award), Undergraduate Research Grant, College of Social Sciences, Seoul National University, 2019
+- Best Undergraduate Paper (Dean's Award), College of Social Sciences, Seoul National University, 2019
 
 ## Fellowships
 
