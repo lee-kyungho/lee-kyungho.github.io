@@ -18,8 +18,8 @@ urlcolor: blue
 ## Awards and Honors
 
 - Young Economist, [7th Lindau Nobel Laureate Meeting on Economic Sciences](https://www.lindau-nobel.org/), 2022
-- Best Graduate Student Paper, Korea Allied Economic Associations Annual Meeting, 2020
-- Best Undergraduate Paper (Dean's Award), College of Social Sciences, Seoul National University, 2019
+- Best Graduate Student Paper, [Korea Allied Economic Associations Annual Meeting](http://eng.kea.ne.kr/), 2020
+- Best Undergraduate Paper (Dean's Award), [College of Social Sciences](https://social.snu.ac.kr/), Seoul National University, 2019
 
 ## Fellowships
 
