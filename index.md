@@ -10,7 +10,7 @@ introduction: |
 
 **PySDTest: A Python Package for Stochastic Dominance Tests** (with [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/)) 
   - <span style="color:blue"> *pip install PySDTest* </span>
-  - [Github(https://github.com/lee-kyungho/pysdtest)]
+  - [Github](https://github.com/lee-kyungho/pysdtest)
 
 **Minimum Wage, Social Insurance Mandate, and Work Hours** (with Ji Hwan Kim, [Jungmin Lee](https://sites.google.com/view/jungminlee71/))
   - *R&R, Journal of Public Economics*
