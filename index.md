@@ -24,6 +24,6 @@ introduction: |
   - Best Graduate Student Paper, Korea Allied Economic Associations Annual Meeting 2020
   - [Matlab Code](https://github.com/lee-kyungho/Testing-for-TSD)
 
-**The Effect of Minimum Wage Increment on Employment and Workhours of New Workers in Korea**, (2019), *Korean Journal of Labor Economics*, 42 (2) P.63-99 
+**최저임금 인상이 신규근로자 고용과 근로시간에 미치는 영향**, (2019), *노동경제논집*, 42 (2) P.63-99 
 (with Ji Hwan Kim, Jihoon Choi) [written in Korean]
 
