@@ -25,5 +25,5 @@ introduction: |
   - [Matlab Code](https://github.com/lee-kyungho/Testing-for-TSD)
 
 **최저임금 인상이 신규근로자 고용과 근로시간에 미치는 영향**, (2019), *노동경제논집*, 42 (2) P.63-99 
-(with Ji Hwan Kim, Jihoon Choi) [written in Korean]
+(with Ji Hwan Kim, Jihoon Choi)
 
