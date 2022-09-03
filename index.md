@@ -15,8 +15,6 @@ introduction: |
 **Minimum Wage, Social Insurance Mandate, and Work Hours** (with Ji Hwan Kim, [Jungmin Lee](https://sites.google.com/view/jungminlee71/))
   - *R&R, Journal of Public Economics*
 
-**The Effect of the EITC on the Elderly Labor**
-
 ### <ins> Publications </ins>
 
 **[Testing for Time Stochastic Dominance](https://doi.org/10.1016/j.jeconom.2022.03.012)** (with [Oliver Linton](https://obl20.com/), [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/))
