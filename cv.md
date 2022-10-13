@@ -1,11 +1,9 @@
 ---
-title: CV
+title: Curriculum Vitae
 layout: page
 urlcolor: blue
 
 ---
-
-[CV](https://github.com/lee-kyungho/lee-kyungho.github.io/blob/main/cv/CV_kyungholee.pdf)
 
 ## Education
 
