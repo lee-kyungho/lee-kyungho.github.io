@@ -1,5 +1,5 @@
 ---
-title: 국문이력
+title: CV(Korean)
 layout: page
 urlcolor: blue
 
