@@ -3,6 +3,7 @@ layout: home
 title: Welcome
 introduction: |
   I am a PhD student in Economics at [Yale](https://economics.yale.edu)
+  [이력](https://github.com/lee-kyungho/lee-kyungho.github.io/raw/main/assets/%E1%84%8B%E1%85%B5%E1%84%80%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A9_%E1%84%80%E1%85%AE%E1%86%A8%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8.pdf)
 
 ---
 
