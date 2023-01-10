@@ -28,7 +28,7 @@ Estimating Demand for Shapes (with [Sukjin Han](https://sukjinhan.com/))
 
 Endogenous Product Entry in the Space of Visual Characteristics (with [Sukjin Han](https://sukjinhan.com/))
 
-# <ins> Publications </ins>
+# <ins> Publication </ins>
 
 [Testing for Time Stochastic Dominance](https://doi.org/10.1016/j.jeconom.2022.03.012) 
   - with [Oliver Linton](https://obl20.com/), [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/)
