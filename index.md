@@ -6,8 +6,8 @@ introduction: |
   
 ---
 
-[CV](https://github.com/lee-kyungho/lee-kyungho.github.io/raw/main/assets/CV_kyungholee_Jan2023.pdf)
-[국문 이력](https://github.com/lee-kyungho/lee-kyungho.github.io/raw/main/assets/CV_kor_KHLEE_Jan2023.pdf)
+[CV](https://github.com/lee-kyungho/lee-kyungho.github.io/raw/main/assets/CV_kyungholee_Jan2023.pdf),
+[국문이력](https://github.com/lee-kyungho/lee-kyungho.github.io/raw/main/assets/CV_kor_KHLEE_Jan2023.pdf)
 
 ###  <ins>Working Papers</ins>
 
