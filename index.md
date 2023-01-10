@@ -8,6 +8,13 @@ introduction: |
   [국문이력](https://github.com/lee-kyungho/lee-kyungho.github.io/raw/main/assets/CV_kor_KHLEE_Jan2023.pdf)
   
 ---
+<style>
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+</style>
 
 #  <ins>Working Papers</ins>
 
