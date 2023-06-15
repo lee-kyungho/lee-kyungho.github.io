@@ -4,7 +4,7 @@ title: Welcome
 introduction: |
   I am a PhD student in Economics at [Yale](https://economics.yale.edu)
   
-  [CV](https://www.dropbox.com/s/aqvnhsqkdtgyszo/CV_KL_June2023.pdf?dl=0),
+My CV is [here](https://www.dropbox.com/s/aqvnhsqkdtgyszo/CV_KL_June2023.pdf?dl=0).
   
 ---
 
@@ -15,7 +15,7 @@ PySDTest: A Python Package for Stochastic Dominance Tests (with [Yoon-Jae Whang]
   - [Github](https://github.com/lee-kyungho/pysdtest)
 
 Minimum Wage, Social Insurance Mandate, and Work Hours (with Ji Hwan Kim, [Jungmin Lee](https://sites.google.com/view/jungminlee71/))
-  - *R&R, Journal of Public Economics*
+  - *Conditionally Accepted, Journal of Public Economics*
 
 #  Work in Progress
 
