@@ -17,7 +17,7 @@ Minimum Wage, Social Insurance Mandate, and Work Hours (with Ji Hwan Kim, [Jungm
 
 #  Work in Progress
 
-Identification and Estimation when the Target of Program is Not Fully Observed
+Evaluating the Effect of a Program on a Partially Latent Group
 
 Estimating Demand for Shapes (with [Sukjin Han](https://sukjinhan.com/))
 
