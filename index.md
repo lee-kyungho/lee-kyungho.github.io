@@ -4,7 +4,7 @@ title: Welcome
 introduction: |
   I am a PhD student in Economics at [Yale](https://economics.yale.edu)
   
-My CV is [here](https://www.dropbox.com/s/aqvnhsqkdtgyszo/CV_KL_June2023.pdf?dl=0).
+My CV is [here](https://www.dropbox.com/s/aqvnhsqkdtgyszo/CV_KL_June2023.pdf?dl=0)
   
 ---
 
