@@ -4,8 +4,7 @@ title: Welcome
 introduction: |
   I am a PhD student in Economics at [Yale](https://economics.yale.edu)
   
-  [CV](https://github.com/lee-kyungho/lee-kyungho.github.io/raw/main/assets/CV_kyungholee_Jan2023.pdf),
-  [국문이력](https://github.com/lee-kyungho/lee-kyungho.github.io/raw/main/assets/CV_kor_KHLEE_Jan2023.pdf)
+  [CV](https://www.dropbox.com/s/gctl40hgs7nlemb/CV_KL.pdf?dl=0),
   
 ---
 
