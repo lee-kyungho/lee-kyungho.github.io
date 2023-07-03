@@ -6,7 +6,10 @@ introduction: |
   
 ---
 
-#  Working Papers
+### Research Insterests
+Empirical IO, Public Economics, Econometrics/Machine Learning
+
+###  Working Papers
 
 PySDTest: A Python Package for Stochastic Dominance Tests (with [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/))
   - <span style="color:blue"> *pip install PySDTest* </span>
@@ -15,13 +18,13 @@ PySDTest: A Python Package for Stochastic Dominance Tests (with [Yoon-Jae Whang]
 Minimum Wage, Social Insurance Mandate, and Work Hours (with Ji Hwan Kim, [Jungmin Lee](https://sites.google.com/view/jungminlee71/))
   - *Conditionally Accepted, Journal of Public Economics*
 
-#  Work in Progress
+###  Work in Progress
 
 Evaluating the Effect of a Program on a Partially Latent Group
 
 Estimating Demand for Shapes (with [Sukjin Han](https://sukjinhan.com/))
 
-# Publication
+### Publication
 
 [Testing for Time Stochastic Dominance](https://doi.org/10.1016/j.jeconom.2022.03.012) (with [Oliver Linton](https://obl20.com/), [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/))
   - *forthcoming, Journal of Econometrics*
