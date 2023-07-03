@@ -2,7 +2,7 @@
 layout: home
 title: Welcome
 introduction: |
-  I am a PhD student in Economics at [Yale](https://economics.yale.edu). My CV is [here](https://www.dropbox.com/s/aqvnhsqkdtgyszo/CV_KL_June2023.pdf?dl=0)
+  I am a PhD student in Economics at [Yale](https://economics.yale.edu). My CV is [here](https://www.dropbox.com/s/t2nxj4ixar2gwoe/CV_KL_July2023.pdf?dl=0)
   
 ---
 
@@ -20,8 +20,6 @@ Minimum Wage, Social Insurance Mandate, and Work Hours (with Ji Hwan Kim, [Jungm
 Evaluating the Effect of a Program on a Partially Latent Group
 
 Estimating Demand for Shapes (with [Sukjin Han](https://sukjinhan.com/))
-
-Endogenous Product Entry in the Space of Visual Characteristics (with [Sukjin Han](https://sukjinhan.com/))
 
 # Publication
 
