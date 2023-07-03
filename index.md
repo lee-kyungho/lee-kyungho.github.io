@@ -6,7 +6,7 @@ introduction: |
   
 ---
 
-### Research Insterests
+### Research Interests
 Empirical IO, Public Economics, Econometrics/Machine Learning
 
 ###  Working Papers
