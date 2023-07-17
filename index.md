@@ -7,7 +7,7 @@ introduction: |
 ---
 
 ### Research Interests
-Empirical IO, Public Economics, Econometrics/Machine Learning
+Empirical IO, Econometrics/Machine Learning, Applied Micro
 
 ###  Working Papers
 
