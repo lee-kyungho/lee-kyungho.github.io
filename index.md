@@ -6,16 +6,16 @@ introduction: |
   
 ---
 
-# Research Interests
+## Research Interests
 Empirical IO, Nonparametric Econometrics, Machine Learning, Applied Micro
 
-#  Working Papers
+##  Working Papers
 
 [PySDTest: A Python Package for Stochastic Dominance Tests](https://arxiv.org/abs/2307.10694) (with [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/))
   - <span style="color:blue"> *pip install PySDTest* </span>
   - [Github](https://github.com/lee-kyungho/pysdtest)
 
-# Publications
+## Publications
 
 Minimum Wage, Social Insurance Mandate, and Work Hours (with Ji Hwan Kim, [Jungmin Lee](https://sites.google.com/view/jungminlee71/))
   - *forthcoming, Journal of Public Economics*
