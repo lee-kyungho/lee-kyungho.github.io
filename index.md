@@ -21,7 +21,7 @@ Evaluating the Effect of a Program on a Partially Latent Group
 
 Estimating Demand for Shapes (with [Sukjin Han](https://sukjinhan.com/))
 
-### PublicationS
+### Publications
 
 Minimum Wage, Social Insurance Mandate, and Work Hours (with Ji Hwan Kim, [Jungmin Lee](https://sites.google.com/view/jungminlee71/))
   - *forthcoming, Journal of Public Economics*
