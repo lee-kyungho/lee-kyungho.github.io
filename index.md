@@ -7,7 +7,7 @@ introduction: |
 ---
 
 ## Research Interests
-Empirical IO, Nonparametric Econometrics, Machine Learning, Applied Micro
+Empirical IO, Applied Micro, Microeconometrics/Machine Learning
 
 ##  Working Papers
 
