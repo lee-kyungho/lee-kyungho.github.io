@@ -2,13 +2,14 @@
 layout: home
 title: Welcome
 introduction: |
+<img src="assets/images/sample_photo.jpg" width="200px" height="200px" title="Sample"/>
   I am a PhD student in Economics at Yale University.
 actions:
   - label: "CV"
     icon: pdf
     url: "https://www.dropbox.com/s/t2nxj4ixar2gwoe/CV_KL_July2023.pdf?dl=0"
 ---
-<img src="assets/images/sample_photo.jpg" width="200px" height="200px" title="Sample"/>
+
 
 ## Research Interests
 
