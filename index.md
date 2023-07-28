@@ -15,7 +15,7 @@ Empirical IO, Applied Micro, Microeconometrics/Machine Learning
 ##  Working Papers
 
 [PySDTest: A Python Package for Stochastic Dominance Tests](https://arxiv.org/abs/2307.10694) (with [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/))
-  - <span style="color:blue"> *pip install PySDTest* </span>
+  - `pip install PySDTest`
   - [Github](https://github.com/lee-kyungho/pysdtest)
 
 ## Publications
