@@ -16,7 +16,7 @@
 
 
 # Site settings
-# remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 title: "Kyungho Lee"
 baseurl: ""
@@ -30,7 +30,7 @@ google_analytics: G-1JDEW6VCJ0
 
 # Build settings
 markdown: kramdown
-stylesheet: /_sass/basically-basic.scss
+# stylesheet: /_sass/basically-basic.scss
 plugins: # previously gems
   - jekyll-seo-tag
   - jekyll-sitemap
