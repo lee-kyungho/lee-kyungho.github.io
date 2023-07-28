@@ -16,7 +16,7 @@
 
 
 # Site settings
-remote theme: jekyll-theme-basically-basic@1.45
+remote_theme: jekyll-theme-basically-basic
 
 title: "Kyungho Lee"
 baseurl: ""
