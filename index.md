@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: about
 title: Welcome
 introduction: |
     I am a PhD student in Economics at Yale University.
