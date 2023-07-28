@@ -30,7 +30,7 @@ google_analytics: G-1JDEW6VCJ0
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic
 # stylesheet: /_sass/basically-basic.scss
 plugins: # previously gems
   - jekyll-seo-tag
