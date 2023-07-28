@@ -8,7 +8,7 @@ actions:
     icon: pdf
     url: "https://www.dropbox.com/s/t2nxj4ixar2gwoe/CV_KL_July2023.pdf?dl=0"
 ---
-<img src="/assest/sample_photo.png" width="100px" height="50px" title="Sample"/>
+<img src="/assets/sample_photo.png" width="100px" height="100px" title="Sample"/>
 
 ## Research Interests
 
