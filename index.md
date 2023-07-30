@@ -11,7 +11,7 @@ actions:
 
 ## Research Interests
 
-Empirical IO, Applied Micro, Microeconometrics/Machine Learning
+Empirical IO, Applied Micro, Program Evaluation/Machine Learning
 
 ##  Working Papers
 
