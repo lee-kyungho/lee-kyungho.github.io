@@ -1,16 +1,23 @@
 
+a,
 a:visited {
   color: #0F4D92 !important;
 }
 
-a,
+
 a:hover,
 a:focus,
 a:active {
-  color: #002147 !important;
+  color: #0F4D92 !important;
 }
 
 a.btn {
-  color: #002147 !important;
+  color: #FFFFFF !important;
   background-color: #0F4D92 !important;  /* Replace with your desired color */
+}
+
+h1.intro-title {
+    margin-bottom: 1rem;
+    color: #000000;
+    line-height: 1;
 }
