@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Welcome
+urlcolor: blue
 introduction: |
     I am a PhD student in Economics at Yale University.
 actions:
