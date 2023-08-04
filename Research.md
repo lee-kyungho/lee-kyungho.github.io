@@ -4,17 +4,13 @@ title: "Research"
 permalink: /research/
 ---
 
-## Research Interests
-
-Empirical IO, Applied Micro, Program Evaluation/Machine Learning
-
-##  Working Papers
+####  Working Papers
 
 [PySDTest: A Python Package for Stochastic Dominance Tests](https://arxiv.org/abs/2307.10694) (with [Yoon-Jae Whang](https://sites.google.com/site/whangyjhomepage/))
   - `pip install PySDTest`
   - [Python Code](https://github.com/lee-kyungho/pysdtest)
 
-## Publications
+#### Publications
 
 Minimum Wage, Social Insurance Mandate, and Work Hours (with Ji Hwan Kim, [Jungmin Lee](https://sites.google.com/view/jungminlee71/))
   - *forthcoming, Journal of Public Economics*
