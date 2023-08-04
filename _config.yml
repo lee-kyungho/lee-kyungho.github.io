@@ -23,7 +23,3 @@ plugins: # previously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-
-navigation_pages:
-  - about.md
-  - Research.md
