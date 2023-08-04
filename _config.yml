@@ -16,7 +16,7 @@ author:
   picture: /assets/images/KL_image (1).jpg
 
 sass:
-  sass_dir: assets/css
+  sass_dir: _sass
 
 # Build settings
 markdown: kramdown
