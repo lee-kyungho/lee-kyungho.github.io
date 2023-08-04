@@ -16,7 +16,7 @@ permalink: /research/
 *forthcoming, Journal of Public Economics*
 
 ["Testing for Time Stochastic Dominance"](https://doi.org/10.1016/j.jeconom.2022.03.012)\
-(with Oliver Linton, Yoon-Jae Whang)
-*2023, Journal of Econometrics*
-[MATLAB Code](https://github.com/lee-kyungho/Testing-for-TSD)
+(with Oliver Linton, Yoon-Jae Whang)\
+*2023, Journal of Econometrics*\
+[MATLAB Code](https://github.com/lee-kyungho/Testing-for-TSD)\
 Best Graduate Student Paper, Korea Allied Economic Associations Annual Meeting 2020
