@@ -1,7 +1,6 @@
-
 ---
 title: "Research"
-layout: default
+layout: page
 ---
 
 ## Research Interests
