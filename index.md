@@ -5,7 +5,7 @@ introduction: |
     I am a PhD student in Economics at Yale University.
 actions:
   - label: "About"
-    icon: person-svgrepo-com
+    icon: person-svgrepo-com 
     url: "https://lee-kyungho.github.io/about.html"
   - label: "CV"
     icon: pdf
