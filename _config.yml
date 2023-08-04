@@ -13,7 +13,7 @@ google_analytics: G-1JDEW6VCJ0
 author:
   name: Kyungho Lee
   twitter:
-  picture:
+  picture: /assets/images/KL_image.jpg
 
 # Build settings
 markdown: kramdown
