@@ -1,4 +1,9 @@
 
+---
+title: "Research"
+layout: default
+---
+
 ## Research Interests
 
 Empirical IO, Applied Micro, Program Evaluation/Machine Learning
