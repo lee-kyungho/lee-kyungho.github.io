@@ -7,8 +7,10 @@ permalink: /teaching/
 ### Seoul National University
 
 Teaching Assistant to Prof. Hyunjoo Kim \
-Basic Computing: First Adventures in Computing
+"Basic Computing: First Adventures in Computing"\
+(Introductory Python programming)
 
 Teaching Assistant to Prof. Yoon-Jae Whang \
-Studies in Econometrics
+"Studies in Econometrics"\
+(Graduate-level core econometrics)
 
