@@ -11,12 +11,12 @@ permalink: /research/
 [Python Code](https://github.com/lee-kyungho/pysdtest) (`pip install PySDTest`)
 
 ### Publications
-"Minimum Wage, Social Insurance Mandate, and Work Hours" \
+["Minimum Wage, Social Insurance Mandate, and Work Hours"](https://doi.org/10.1016/j.jpubeco.2023.104951) \
 (with Ji Hwan Kim, Jungmin Lee)\
-*forthcoming, Journal of Public Economics*
+2023, *Journal of Public Economics*, Vol. 225
 
 ["Testing for Time Stochastic Dominance"](https://doi.org/10.1016/j.jeconom.2022.03.012)\
 (with Oliver Linton, Yoon-Jae Whang)\
-*2023, Journal of Econometrics*, Vol. 235(2), 352-371\
+2023, *Journal of Econometrics*, Vol. 235(2), 352-371\
 [MATLAB Code](https://github.com/lee-kyungho/Testing-for-TSD)\
 Best Graduate Student Paper, Korea Allied Economic Associations Annual Meeting 2020
