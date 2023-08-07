@@ -11,7 +11,7 @@ permalink: /research/
 [Python Code](https://github.com/lee-kyungho/pysdtest) (`pip install PySDTest`)
 
 ### Publications
-["Minimum Wage, Social Insurance Mandate, and Work Hours"](https://doi.org/10.1016/j.jpubeco.2023.104951) \
+["Minimum Wage, Social Insurance Mandate, and Working Hours"](https://doi.org/10.1016/j.jpubeco.2023.104951) \
 (with Ji Hwan Kim, Jungmin Lee)\
 2023, *Journal of Public Economics*, Vol. 225
 
