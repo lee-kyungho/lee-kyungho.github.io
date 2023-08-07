@@ -2,7 +2,7 @@
 layout: home
 title: Welcome
 introduction: |
-    PhD student in Economics at Yale.
+    PhD student in economics at Yale.
 actions:
   - label: "About"
     url: "https://lee-kyungho.github.io/about.html"
