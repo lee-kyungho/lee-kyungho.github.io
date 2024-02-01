@@ -13,7 +13,7 @@ permalink: /research/
 ### Publications
 ["Minimum Wage, Social Insurance Mandate, and Working Hours"](https://doi.org/10.1016/j.jpubeco.2023.104951) \
 (with Ji Hwan Kim, Jungmin Lee)\
-2023, *Journal of Public Economics*, Vol. 225, 104951
+2023, *Journal of Public Economics*, Vol. 225, 104951\
 Best Paper, Korea Economic Association 2023
 
 ["Testing for Time Stochastic Dominance"](https://doi.org/10.1016/j.jeconom.2022.03.012)\
