@@ -7,11 +7,11 @@ permalink: /teaching/
 ### Yale University
 Teaching Assistant to Prof. Max Cytrynbaum \
 "Econometrics II" (ECON 551), Spring 2024 \
-First year Ph.D. core econometrics
+First year Ph.D. core econometrics (Applied Econometrics)
 
 Teaching Assistant to Prof. Donald W.K. Andrews \
 "Econometrics I" (ECON 550), Fall 2023 \
-First year Ph.D. core econometrics
+First year Ph.D. core econometrics (Probability and estimation theory)
 
 ### Seoul National University
 
