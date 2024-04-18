@@ -10,6 +10,10 @@ permalink: /research/
 (with Yoon-Jae Whang)\
 [Python Code](https://github.com/lee-kyungho/pysdtest) (`pip install PySDTest`)
 
+###  Work in Progress
+Optimal Product Similarity in Copyright Policy \
+(with Sukjin Han)
+
 ### Publications
 ["Minimum Wage, Social Insurance Mandate, and Working Hours"](https://doi.org/10.1016/j.jpubeco.2023.104951) \
 (with Ji Hwan Kim, Jungmin Lee)\
