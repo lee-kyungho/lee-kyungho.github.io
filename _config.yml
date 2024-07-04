@@ -18,6 +18,9 @@ author:
 
 sass:
   sass_dir: _sass
+  
+social_links:
+  google_scholar: "https://scholar.google.com/citations?user=RIt-l2IAAAAJ&hl=en"
 
 # Build settings
 markdown: kramdown
