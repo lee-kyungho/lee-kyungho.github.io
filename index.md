@@ -12,4 +12,6 @@ actions:
     url: "https://lee-kyungho.github.io/research/"
   - label: "Teaching"
     url: "https://lee-kyungho.github.io/teaching/"
+  - label: "Google Scholar"
+    url: "https://scholar.google.com/citations?user=RIt-l2IAAAAJ&hl=en"
 ---
