@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: home
 title: "Research"
 permalink: /research/
+actions:
+ - label: "Google Scholar"
+   url: "https://scholar.google.com/citations?user=RIt-l2IAAAAJ&hl=en"
 ---
 
 ###  Working Papers
