@@ -48,7 +48,7 @@ google_fonts:
 # Create a custom list to override the default setting of including links to all
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
-# navigation_pages:
+navigation_pages:
 #  - about.md
 #  - Research.md
 #  - Teaching.md
