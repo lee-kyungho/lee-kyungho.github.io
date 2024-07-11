@@ -1,0 +1,17 @@
+/* Import Noto Serif font with the styles you need */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+
+/* Apply Noto Serif font family */
+body {
+    font-family: 'Noto Serif', serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Noto Serif', serif;
+    font-weight: 700; /* Bold for headings */
+}
+
+p {
+    font-family: 'Noto Serif', serif;
+    font-weight: 400; /* Regular for paragraph text */
+}
