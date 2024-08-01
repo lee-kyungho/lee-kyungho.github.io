@@ -8,8 +8,8 @@ permalink: /research/
 
 ["PySDTest: A Python Package for Stochastic Dominance Tests"](https://arxiv.org/abs/2307.10694) \
 (with Yoon-Jae Whang)\
-[Stata/Python](https://github.com/lee-kyungho/pysdtest) 
-`pip install PySDTest`
+[Stata/Python](https://github.com/lee-kyungho/pysdtest) \
+`pip install PySDTest` \
 `net install pysdtest, from("https://raw.githubusercontent.com/lee-kyungho/pysdtest/main/Stata") replace`
 
 ###  Work in Progress
