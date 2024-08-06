@@ -8,7 +8,7 @@ permalink: /research/
 
 ["PySDTest: A Python Package for Stochastic Dominance Tests"](https://arxiv.org/abs/2307.10694) \
 (with Yoon-Jae Whang)\
-[Stata/Python Program](https://github.com/lee-kyungho/pysdtest)
+[Python/Stata Program](https://github.com/lee-kyungho/pysdtest)
 
 ###  Work in Progress
 Optimal Product Similarity in Copyright Policy \
