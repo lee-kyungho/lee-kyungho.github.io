@@ -6,7 +6,7 @@ permalink: /research/
 
 ###  Working Papers
 
-["PySDTest: A Python/Stata Package for Stochastic Dominance Tests"](https://arxiv.org/pdf/2307.10694v2) \
+["PySDTest: A Python/Stata Package for Stochastic Dominance Tests"](https://arxiv.org/abs/2307.10694) \
 (with Yoon-Jae Whang)\
 [Python/Stata Program](https://github.com/lee-kyungho/pysdtest)
 
