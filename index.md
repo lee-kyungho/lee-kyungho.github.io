@@ -7,7 +7,7 @@ actions:
   - label: "About"
     url: "https://lee-kyungho.github.io/about.html"
   - label: "CV"
-    url: "https://www.dropbox.com/scl/fi/fzsc19t5d9guate17f4aa/CV_kyungholee_Aug2024.pdf?rlkey=d8v67wi7jr060lx87d1z04ied&st=p78cc65j&dl=0"
+    url: "https://www.dropbox.com/scl/fi/sa6cxjr847np4mh7p0ep8/CV_kyungholee_Aug2024.pdf?rlkey=pqicemaim2ad2wq6mzbi1o44n&st=qntvkhgt&dl=0"
   - label: "Research"
     url: "https://lee-kyungho.github.io/research/"
   - label: "Teaching"
