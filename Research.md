@@ -8,6 +8,7 @@ permalink: /research/
 
 ["PySDTest: a Python/Stata Package for Stochastic Dominance Tests"](https://arxiv.org/abs/2307.10694) \
 (with Yoon-Jae Whang)\
+*Under review*\
 [Python/Stata Program](https://github.com/lee-kyungho/pysdtest)
 
 ###  Work in Progress
