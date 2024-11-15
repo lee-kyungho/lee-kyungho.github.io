@@ -10,11 +10,11 @@ url: "https://lee-kyungho.github.io"
 logo: /assets/images/Yale_blue.jpg
 github_username: lee-kyungho
 google_analytics: G-1JDEW6VCJ0
-twitter_username: kh_lee_econ
+# twitter_username: kh_lee_econ
 author:
   name: Kyungho Lee
-  twitter: kh_lee_econ
   picture: /assets/images/KL_image_241115.jpg
+  # twitter: kh_lee_econ
 
 sass:
   sass_dir: _sass
