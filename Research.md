@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-###  Working Papers
+###  Working Paper
 
 ["PySDTest: a Python/Stata Package for Stochastic Dominance Tests"](https://arxiv.org/abs/2307.10694) \
 (with Yoon-Jae Whang)\
@@ -12,7 +12,7 @@ permalink: /research/
 [Python/Stata Program](https://github.com/lee-kyungho/pysdtest)
 
 ###  Work in Progress
-Optimal Product Similarity in Copyright Policy \
+Copyright and Competition: Estimating Supply and Demand with Image Data \
 (with Sukjin Han)
 
 ### Publications
