@@ -12,7 +12,7 @@ permalink: /research/
 [Python/Stata Program](https://github.com/lee-kyungho/pysdtest)
 
 ###  Work in Progress
-Copyright and Competition: Estimating Supply and Demand with Image Data \
+Copyright and Competition: Estimating Supply and Demand with Unstructured Data \
 (with Sukjin Han)
 
 ### Publications
