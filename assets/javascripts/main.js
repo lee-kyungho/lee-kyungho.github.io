@@ -74,3 +74,23 @@ function toggleClassSearch() {
     document.querySelector('.search-content input').focus();
   }, 400);
 }
+
+// Function to dynamically set the favicon
+function setFavicon(faviconPath) {
+  // Check if a <link> element for the favicon already exists
+  let faviconLink = document.querySelector("link[rel='icon']");
+  
+  if (!faviconLink) {
+    // If not, create a new <link> element
+    faviconLink = document.createElement("link");
+    faviconLink.rel = "icon";
+    document.head.appendChild(faviconLink);
+  }
+
+  // Set the favicon's path
+  faviconLink.href = faviconPath;
+}
+
+// Set the path to your favicon
+setFavicon("assets/images/yale_favicon.ico");
+
