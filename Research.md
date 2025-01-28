@@ -12,7 +12,8 @@ permalink: /research/
 [Python/Stata Program](https://github.com/lee-kyungho/pysdtest)
 
 ["Copyright and Competition: Estimating Supply and Demand with Unstructured Data"](https://arxiv.org/abs/2501.16120) \
-(with Sukjin Han)
+(with Sukjin Han)\
+Presented at *APIOC 2024*
 
 ### Publications
 ["Minimum Wage, Social Insurance Mandate, and Working Hours"](https://doi.org/10.1016/j.jpubeco.2023.104951) \
