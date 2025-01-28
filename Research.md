@@ -11,7 +11,7 @@ permalink: /research/
 *under review*\
 [Python/Stata Program](https://github.com/lee-kyungho/pysdtest)
 
-Copyright and Competition: Estimating Supply and Demand with Unstructured Data \
+["Copyright and Competition: Estimating Supply and Demand with Unstructured Data"](https://arxiv.org/abs/2501.16120) \
 (with Sukjin Han)
 
 ### Publications
