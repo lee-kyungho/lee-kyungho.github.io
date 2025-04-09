@@ -21,6 +21,7 @@ Will be presented at *ESWC 2025*
 (with Ji Hwan Kim, Jungmin Lee)\
 2023, *Journal of Public Economics*, Vol. 225, 104951\
 Korean Economy Research Award, Korean Economic Association 2023
+Top 50 Outstanding Research, Ministry of Education, Republic of Korea 2024
 
 ["Testing for Time Stochastic Dominance"](https://doi.org/10.1016/j.jeconom.2022.03.012)\
 (with Oliver Linton, Yoon-Jae Whang)\
