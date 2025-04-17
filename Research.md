@@ -20,11 +20,11 @@ Scheduled for *Envisioning AI at Yale:  An Interdisciplinary Symposium*, *2025 W
 ["Minimum Wage, Social Insurance Mandate, and Working Hours"](https://doi.org/10.1016/j.jpubeco.2023.104951) \
 (with Ji Hwan Kim, Jungmin Lee)\
 2023, *Journal of Public Economics*, Vol. 225, 104951\
-Korean Economy Research Award, Korean Economic Association 2023\
-Top 50 Outstanding Research, Ministry of Education, Republic of Korea 2024
+*Korean Economy Research Award*, Korean Economic Association 2023\
+*Top 50 Outstanding Research*, Ministry of Education, Republic of Korea 2024
 
 ["Testing for Time Stochastic Dominance"](https://doi.org/10.1016/j.jeconom.2022.03.012)\
 (with Oliver Linton, Yoon-Jae Whang)\
 2023, *Journal of Econometrics*, Vol. 235(2), 352-371\
 [MATLAB Program](https://github.com/lee-kyungho/Testing-for-TSD)\
-Best Graduate Student Paper, Korea Allied Economic Associations Annual Meeting 2020
+*Best Graduate Student Paper*, Korea Allied Economic Associations Annual Meeting 2020
