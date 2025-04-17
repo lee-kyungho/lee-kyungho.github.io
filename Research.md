@@ -15,7 +15,7 @@ permalink: /research/
 (with Sukjin Han)\
 Presented at *APIOC 2024*\
 Scheduled for \
-&nbsp;&nbsp;&nbsp;&nbsp; *Envisioning AI at Yale: An Interdisciplinary Symposium*;\
+&nbsp;&nbsp;&nbsp;&nbsp; *Envisioning AI at Yale*;\
 &nbsp;&nbsp;&nbsp;&nbsp; *2025 World Congress by the Econometric Society*
 
 ### Publications
