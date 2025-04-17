@@ -16,7 +16,7 @@ permalink: /research/
 Presented at *APIOC 2024*\
 Scheduled for \
 &nbsp;&nbsp;&nbsp;&nbsp; *Envisioning AI at Yale*;\
-&nbsp;&nbsp;&nbsp;&nbsp; *2025 World Congress by the Econometric Society*
+&nbsp;&nbsp;&nbsp;&nbsp; *World Congress 2025 by the Econometric Society*
 
 ### Publications
 ["Minimum Wage, Social Insurance Mandate, and Working Hours"](https://doi.org/10.1016/j.jpubeco.2023.104951) \
