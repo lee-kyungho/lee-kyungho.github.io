@@ -8,7 +8,7 @@ permalink: /research/
 
 ["PySDTest: a Python/Stata Package for Stochastic Dominance Tests"](https://arxiv.org/abs/2307.10694) \
 (with Yoon-Jae Whang)\
-*under review*\
+*R&R from Stata Journal*\
 [Python/Stata Program](https://github.com/lee-kyungho/pysdtest)
 
 ["Copyright and Competition: Estimating Supply and Demand with Unstructured Data"](https://arxiv.org/abs/2501.16120) \
