@@ -13,7 +13,7 @@ permalink: /research/
 
 ["Copyright and Competition: Estimating Supply and Demand with Unstructured Data"](https://arxiv.org/abs/2501.16120) \
 (with Sukjin Han)\
-Presented at *APIOC 2024*, *AI at Yale Symposium 2025*\
+Presented at *APIOC 2024*, *AI at Yale 2025*\
 Scheduled for *ACM EC 2025*, *MLESC25*, *World Congress 2025*
 
 ### Publications
