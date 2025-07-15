@@ -13,7 +13,7 @@ permalink: /research/
 
 ["Copyright and Competition: Estimating Supply and Demand with Unstructured Data"](https://arxiv.org/abs/2501.16120) \
 (with Sukjin Han)\
-[EC '25 Extended Abstract](https://lee-kyungho.github.io/assets/ec25-copyright-competition-extended.pdf)\
+[EC '25 Extended Abstract](https://dl.acm.org/doi/10.1145/3736252.3742619)\
 Presented at *APIOC 2024*, *AI at Yale 2025*, *ACM EC 2025*\
 Scheduled for *MLESC25*, *World Congress 2025*
 
