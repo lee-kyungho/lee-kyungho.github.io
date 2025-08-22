@@ -14,8 +14,7 @@ permalink: /research/
 ["Copyright and Competition: Estimating Supply and Demand with Unstructured Data"](https://arxiv.org/abs/2501.16120) \
 (with Sukjin Han)\
 [EC '25 Extended Abstract](https://dl.acm.org/doi/10.1145/3736252.3742619)\
-Presented at *APIOC 2024*, *AI at Yale 2025*, *ACM EC 2025*\
-Scheduled for *MLESC25*, *World Congress 2025*
+Presented at *APIOC 2024*, *AI at Yale 2025*, *ACM EC 2025*, *MLESC25*, *World Congress 2025*
 
 ### Publications
 ["Minimum Wage, Social Insurance Mandate, and Working Hours"](https://doi.org/10.1016/j.jpubeco.2023.104951) \
