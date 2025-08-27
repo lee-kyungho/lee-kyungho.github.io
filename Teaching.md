@@ -10,7 +10,6 @@ permalink: /teaching/
 
 "PhD Math Camp: Computation Training" \
 Summer 2025 \
-[Syllabus & Materials](https://www.notion.so/Math-Camp-Computation-Training-259b15782905804795b2e62b065de658?source=copy_link)
 
 ### Teaching Fellow
 
