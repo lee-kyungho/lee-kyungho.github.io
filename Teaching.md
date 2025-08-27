@@ -9,7 +9,7 @@ permalink: /teaching/
 ### Instructor
 
 "PhD Math Camp: Computation Training" \
-Summer 2025 
+Department of Economics, Summer 2025 
 
 ### Teaching Fellow
 
