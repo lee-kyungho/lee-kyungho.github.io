@@ -11,10 +11,12 @@ permalink: /research/
 *R&R from Stata Journal*\
 [Python/Stata Program](https://github.com/lee-kyungho/pysdtest)
 
-["Copyright and Competition: Estimating Supply and Demand with Unstructured Data"](https://arxiv.org/abs/2501.16120) \
+"Copyright and Competition: Estimating Supply and Demand with Unstructured Data" \
 (with Sukjin Han)\
 *submitted*\
 [EC '25 Extended Abstract](https://dl.acm.org/doi/10.1145/3736252.3742619)\
+[arXiv](https://arxiv.org/abs/2501.16120)\
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5507058)\
 Presented at *APIOC 2024*, *AI at Yale 2025*, *ACM EC 2025*, *MLESC25*, *World Congress 2025*
 
 ### Publications
