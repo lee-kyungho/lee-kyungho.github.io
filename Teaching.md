@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-## Yale University 
+## Yale University (Teaching Fellow)
 
 "Introduction to Probability and Statistics" \
 Department of Economics, Fall 2025 
@@ -21,7 +21,7 @@ Prof. Max Cytrynbaum, Spring 2024
 "Econometrics I" (Econ 550) \
 Prof. Donald W.K. Andrews, Fall 2023
 
-## Seoul National University 
+## Seoul National University (Teaching Assistant)
 
 "Basic Computing: First Adventures in Computing" (L0444.000400) \
 Prof. Hyunjoo Kim, Spring 2021
