@@ -6,12 +6,11 @@ permalink: /teaching/
 
 ## Yale University 
 
-### Instructor
+"Introduction to Probability and Statistics" \
+Department of Economics, Fall 2025 
 
 "PhD Math Camp: Computation Training" \
 Department of Economics, Summer 2025 
-
-### Teaching Fellow
 
 "Introductory Microeconomics" (Econ 115) \
 Prof. Cormac O'Dea, Fall 2024
@@ -23,8 +22,6 @@ Prof. Max Cytrynbaum, Spring 2024
 Prof. Donald W.K. Andrews, Fall 2023
 
 ## Seoul National University 
-
-### Teaching Assistant
 
 "Basic Computing: First Adventures in Computing" (L0444.000400) \
 Prof. Hyunjoo Kim, Spring 2021
