@@ -7,7 +7,7 @@ permalink: /teaching/
 ## Yale University (Teaching Fellow)
 
 "Introduction to Probability and Statistics" (Econ 2135) \
-Department of Economics, Fall 2025 
+Prof. Yusuke Narita, Fall 2025 
 
 "PhD Math Camp: Computation Training" \
 Department of Economics, Summer 2025 
