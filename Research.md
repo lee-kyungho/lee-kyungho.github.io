@@ -16,6 +16,9 @@ permalink: /research/
 [EC '25 Extended Abstract](https://dl.acm.org/doi/10.1145/3736252.3742619), [arXiv](https://arxiv.org/abs/2501.16120), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5507058)\
 Presented at *APIOC 2024*, *AI at Yale 2025*, *ACM EC 2025*, *MLESC25*, *World Congress 2025*
 
+"Censorship and Steering in Platform Duopolies" \
+(with Michael C. Wang)
+
 ### Publications
 ["Minimum Wage, Social Insurance Mandate, and Working Hours"](https://doi.org/10.1016/j.jpubeco.2023.104951) \
 (with Ji Hwan Kim, Jungmin Lee)\
