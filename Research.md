@@ -5,12 +5,6 @@ permalink: /research/
 ---
 
 ###  Working Papers
-
-["PySDTest: a Python/Stata Package for Stochastic Dominance Tests"](https://arxiv.org/abs/2307.10694) \
-(with Yoon-Jae Whang)\
-*Accepted at Stata Journal*\
-[Python/Stata Program](https://github.com/lee-kyungho/pysdtest)
-
 "Copyright and Competition: Estimating Supply and Demand with Unstructured Data" \
 (with Sukjin Han)\
 [EC '25 Extended Abstract](https://dl.acm.org/doi/10.1145/3736252.3742619), [arXiv](https://arxiv.org/abs/2501.16120), [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5507058)\
@@ -31,3 +25,9 @@ Presented at *APIOC 2024*, *AI at Yale 2025*, *ACM EC 2025*, *MLESC25*, *World C
 *Journal of Econometrics*, Vol. 235(2), 352-371, 2023\
 [MATLAB Program](https://github.com/lee-kyungho/Testing-for-TSD)\
 *Best Graduate Student Paper*, Korea Allied Economic Associations Annual Meeting 2020
+
+### Software
+["PySDTest: a Python/Stata Package for Stochastic Dominance Tests"](https://arxiv.org/abs/2307.10694) \
+(with Yoon-Jae Whang)\
+*Accepted at Stata Journal*\
+[Python/Stata Program](https://github.com/lee-kyungho/pysdtest)
