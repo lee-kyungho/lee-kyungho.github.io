@@ -12,6 +12,7 @@ Presented at *APIOC 2024*, *AI at Yale 2025*, *ACM EC 2025*, *MLESC25*, *World C
 
 "Censorship and Steering in Platform Duopolies" \
 (with Michael C. Wang)
+Scheduled for *AI at Yale 2026*
 
 ### Publications
 ["Minimum Wage, Social Insurance Mandate, and Working Hours"](https://doi.org/10.1016/j.jpubeco.2023.104951) \
