@@ -11,7 +11,7 @@ permalink: /research/
 Presented at *APIOC 2024*, *AI at Yale 2025*, *ACM EC 2025*, *MLESC25*, *World Congress 2025*
 
 "Censorship and Steering in Platform Duopolies" \
-(with Michael C. Wang)
+(with Michael C. Wang)\
 Scheduled for *AI at Yale 2026*
 
 ### Publications
