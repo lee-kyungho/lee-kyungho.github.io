@@ -8,8 +8,6 @@ permalink: /research/
 
 # Research
 
-<div class="page-subtitle">Platform economics · Antitrust · Economics of AI</div>
-
 ## Working Papers
 
 <div class="paper">
