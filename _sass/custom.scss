@@ -23,7 +23,59 @@ h1.intro-title {
 }
 
 h3 {
+  color: #000000;
+  margin-bottom: 0.3rem;
+}
 
-  color: #000000
+/* ── Research page ─────────────────────────────────────────── */
 
+.section-rule {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 0.4rem 0 1.6rem;
+}
+
+.paper {
+  margin-bottom: 1.8rem;
+}
+
+.paper-title {
+  font-size: 1em;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.paper-authors {
+  font-size: 0.88em;
+  color: #666;
+  margin-top: 0.15rem;
+}
+
+.paper-venue {
+  font-size: 0.88em;
+  color: #444;
+  margin-top: 0.15rem;
+}
+
+.paper-links {
+  font-size: 0.85em;
+  margin-top: 0.3rem;
+}
+
+.paper-links a {
+  margin-right: 0.15rem;
+}
+
+.paper-award {
+  font-size: 0.84em;
+  color: #8a6800;
+  margin-top: 0.25rem;
+  line-height: 1.5;
+}
+
+.paper-presentations {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 0.2rem;
+  line-height: 1.6;
 }
