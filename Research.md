@@ -4,14 +4,11 @@ title: "Research"
 permalink: /research/
 ---
 
-<p class="research-subtitle">Platform economics &middot; Antitrust &middot; Economics of AI</p>
-
 <h3 class="research-section-title">Working Papers</h3>
 
 <div class="paper">
   <div class="paper-title"><a href="https://arxiv.org/abs/2501.16120">Copyright and competition: estimating supply and demand with unstructured data</a></div>
   <div class="paper-authors">with Sukjin Han</div>
-  <div class="paper-abstract">We estimate a structural model of supply and demand in creative goods markets using unstructured data, with applications to optimal copyright policy.</div>
   <div class="paper-links">
     <a class="paper-badge" href="https://arxiv.org/abs/2501.16120">arXiv</a>
     <a class="paper-badge" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5507058">SSRN</a>
@@ -22,13 +19,11 @@ permalink: /research/
     Scheduled for <strong>ESIF AI+ML 2026</strong>
   </div>
 </div>
+    
 
 <div class="paper">
   <div class="paper-title">Censorship and steering in platform duopolies</div>
   <div class="paper-authors">with Michael C. Wang</div>
-  <div class="paper-links">
-    <a class="paper-badge" href="mailto:liikh1994@gmail.com">Draft available upon request</a>
-  </div>
   <div class="paper-presentations">Scheduled for <strong>AI at Yale 2026</strong></div>
 </div>
 
