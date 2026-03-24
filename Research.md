@@ -6,12 +6,11 @@ permalink: /research/
 
 <div class="research-page" markdown="1">
 
-# Working Papers
+## Working Papers
 
 <div class="paper">
   <div class="paper-title">Copyright and competition: estimating supply and demand with unstructured data</div>
   <div class="paper-authors">with Sukjin Han</div>
-  <div class="paper-desc">We estimate a structural model of supply and demand in creative goods markets using unstructured data, with applications to optimal copyright policy.</div>
   <div class="paper-links">
     <a href="https://arxiv.org/abs/2501.16120">arXiv</a>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5507058">SSRN</a>
@@ -31,9 +30,7 @@ permalink: /research/
   </div>
 </div>
 
----
-
-# Publications
+## Publications
 
 <div class="paper">
   <div class="paper-title"><a href="https://doi.org/10.1016/j.jpubeco.2023.104951">Minimum wage, social insurance mandate, and working hours</a></div>
@@ -57,9 +54,7 @@ permalink: /research/
   <span class="award">★ Best Graduate Student Paper, KAEA 2020</span>
 </div>
 
----
-
-# Software
+## Software
 
 <div class="paper">
   <div class="paper-title">PySDTest: a Python/Stata package for stochastic dominance tests</div>
