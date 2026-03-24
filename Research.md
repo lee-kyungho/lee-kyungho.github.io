@@ -6,9 +6,7 @@ permalink: /research/
 
 <div class="research-page" markdown="1">
 
-# Research
-
-## Working Papers
+# Working Papers
 
 <div class="paper">
   <div class="paper-title">Copyright and competition: estimating supply and demand with unstructured data</div>
@@ -35,7 +33,7 @@ permalink: /research/
 
 ---
 
-## Publications
+# Publications
 
 <div class="paper">
   <div class="paper-title"><a href="https://doi.org/10.1016/j.jpubeco.2023.104951">Minimum wage, social insurance mandate, and working hours</a></div>
@@ -61,7 +59,7 @@ permalink: /research/
 
 ---
 
-## Software
+# Software
 
 <div class="paper">
   <div class="paper-title">PySDTest: a Python/Stata package for stochastic dominance tests</div>
