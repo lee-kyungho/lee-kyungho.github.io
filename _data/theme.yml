@@ -42,6 +42,9 @@ t:
 # Google Fonts
 google_fonts:
   - name: "Noto Serif"
+    weights: "400;600;700"
+  - name: "Source Sans 3"
+    weights: "400;500;600"
 
 # Link to specific internal pages in the navigation.
 # Create a custom list to override the default setting of including links to all
