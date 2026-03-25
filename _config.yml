@@ -1,6 +1,6 @@
 # Site settings
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
-theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic  # for local builds only
 # remote_theme: "alshedivat/al-folio"
 title: "Kyungho Lee"
 baseurl: ""
@@ -28,6 +28,7 @@ markdown: kramdown
 # theme: jekyll-theme-basically-basic
 # stylesheet: /_sass/basically-basic.scss
 plugins: # previously gems
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
