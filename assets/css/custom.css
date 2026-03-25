@@ -1,17 +1,306 @@
-/* Import Noto Serif font with the styles you need */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+/* ==========================================================================
+   Custom styles — Kyungho Lee
+   ========================================================================== */
 
-/* Apply Noto Serif font family */
+/* ── Base palette ─────────────────────────────────────────── */
+:root {
+  --yale-blue:   #0F4D92;
+  --yale-dark:   #0a3561;
+  --yale-light:  #e8eff8;
+  --yale-accent: #1a6bc4;
+  --warm-bg:     #fafaf8;
+  --warm-bg-alt: #f5f4f1;
+  --text-primary:#1a1a1a;
+  --text-secondary:#555;
+  --text-muted:  #888;
+  --border-light:#e5e2dd;
+  --border-subtle:#eeebe6;
+}
+
+/* ── Typography ───────────────────────────────────────────── */
 body {
-    font-family: 'Noto Serif', serif;
+  font-family: 'Noto Serif', Georgia, serif;
+  background-color: var(--warm-bg);
+  color: var(--text-primary);
 }
 
-h1, h2, h3 {
-    font-family: 'Noto Serif', serif;
-    font-weight: 700; /* Bold for headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Noto Serif', Georgia, serif;
+  font-weight: 700;
 }
 
-p {
-    font-family: 'Noto Serif', serif;
-    font-weight: 400; /* Regular for paragraph text */
+p, li, dd, dt, blockquote {
+  font-family: 'Noto Serif', Georgia, serif;
+  font-weight: 400;
+}
+
+/* ── Accent top-border ────────────────────────────────────── */
+body::before {
+  content: '';
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--yale-blue), var(--yale-accent), var(--yale-blue));
+  z-index: 9999;
+}
+
+/* ── Wrapper / canvas warm background ─────────────────────── */
+.wrapper {
+  background-color: var(--warm-bg) !important;
+}
+
+.sidebar {
+  background-color: var(--warm-bg-alt);
+  border-right: 1px solid var(--border-subtle);
+}
+
+/* ── Links — cohesive Yale blue ───────────────────────────── */
+a,
+a:visited {
+  color: var(--yale-blue) !important;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: var(--yale-dark) !important;
+}
+
+/* ── Buttons ──────────────────────────────────────────────── */
+a.btn {
+  color: #fff !important;
+  background-color: var(--yale-blue) !important;
+  border: 1px solid var(--yale-blue) !important;
+  border-radius: 4px;
+  padding: 0.5em 1.25em;
+  font-family: 'Source Sans 3', Helvetica, sans-serif;
+  font-size: 0.85em;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+a.btn:hover {
+  background-color: var(--yale-dark) !important;
+  box-shadow: 0 2px 8px rgba(15, 77, 146, 0.2);
+}
+
+/* ── Intro / Home ─────────────────────────────────────────── */
+h1.intro-title {
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+  line-height: 1;
+}
+
+.intro-text {
+  color: var(--text-secondary);
+}
+
+/* ── Section headings ─────────────────────────────────────── */
+h2 {
+  color: var(--text-primary);
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--border-light);
+  margin-bottom: 1rem;
+}
+
+h3 {
+  color: var(--text-primary);
+  margin-bottom: 0.3rem;
+}
+
+/* ── Page content — refined spacing ───────────────────────── */
+.page-content {
+  line-height: 1.75;
+}
+
+.entry-content {
+  line-height: 1.75;
+}
+
+/* ── Site title ───────────────────────────────────────────── */
+.site-title a {
+  color: var(--text-primary) !important;
+  letter-spacing: -0.3px;
+}
+
+/* ── Navigation ───────────────────────────────────────────── */
+.site-nav .menu-item a {
+  font-family: 'Source Sans 3', Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 0.95em;
+  color: var(--text-secondary) !important;
+  transition: color 0.2s ease;
+}
+
+.site-nav .menu-item a:hover {
+  color: var(--yale-blue) !important;
+}
+
+/* ── Contact list in sidebar ──────────────────────────────── */
+.contact-list a {
+  font-family: 'Source Sans 3', Helvetica, sans-serif;
+  font-size: 0.9em;
+}
+
+/* ── Footer ───────────────────────────────────────────────── */
+.site-footer {
+  border-top: 1px solid var(--border-light);
+  color: var(--text-muted);
+  font-size: 0.85em;
+}
+
+/* ── Research page ────────────────────────────────────────── */
+
+.research-page h1 {
+  font-family: 'Noto Serif', Georgia, serif;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: -0.3px;
+  margin-bottom: 2px;
+  border-bottom: none;
+}
+
+.research-page .page-subtitle {
+  font-size: 13px;
+  color: var(--text-muted);
+  font-weight: 400;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.research-page h2 {
+  font-family: 'Source Sans 3', Helvetica, sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: var(--yale-blue);
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.research-page hr {
+  border: none;
+  border-top: 1px solid var(--border-light);
+  margin: 2.5rem 0 0;
+}
+
+.research-page .paper {
+  margin-bottom: 2.5rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--border-subtle);
+  transition: border-color 0.2s ease;
+}
+
+.research-page .paper:hover {
+  border-left-color: var(--yale-blue);
+}
+
+.research-page .paper-title {
+  font-family: 'Noto Serif', Georgia, serif;
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 2px;
+}
+
+.research-page .paper-title a {
+  color: inherit !important;
+  text-decoration: none;
+}
+
+.research-page .paper-title a:hover {
+  color: var(--yale-blue) !important;
+  text-decoration: none;
+}
+
+.research-page .paper-authors {
+  font-family: 'Source Sans 3', Helvetica, sans-serif;
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-bottom: 6px;
+}
+
+.research-page .paper-desc {
+  font-size: 13.5px;
+  color: var(--text-secondary);
+  line-height: 1.55;
+  margin-bottom: 8px;
+  font-style: italic;
+}
+
+.research-page .paper-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 6px;
+}
+
+.research-page .paper-links a,
+.research-page .paper-links a:visited {
+  display: inline-block;
+  font-family: 'Source Sans 3', Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 3px 10px;
+  border-radius: 4px;
+  border: 1px solid var(--border-light);
+  color: var(--text-secondary) !important;
+  text-decoration: none !important;
+  background: var(--warm-bg-alt);
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
+}
+
+.research-page .paper-links a:hover {
+  border-color: var(--yale-blue);
+  color: var(--yale-blue) !important;
+  background: var(--yale-light);
+}
+
+.research-page .paper-venue {
+  font-family: 'Source Sans 3', Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-bottom: 2px;
+}
+
+.research-page .paper-venue em {
+  font-style: italic;
+}
+
+.research-page .paper-presentations {
+  font-family: 'Source Sans 3', Helvetica, sans-serif;
+  font-size: 12.5px;
+  color: var(--text-muted);
+  line-height: 1.5;
+  margin-top: 4px;
+}
+
+.research-page .paper-presentations em {
+  font-style: normal;
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
+.research-page .award {
+  display: inline-block;
+  font-family: 'Source Sans 3', Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  color: #85600b;
+  background: #fdf3e0;
+  padding: 3px 10px;
+  border-radius: 4px;
+  margin-top: 6px;
+  margin-right: 6px;
 }

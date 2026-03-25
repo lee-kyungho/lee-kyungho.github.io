@@ -1,5 +1,6 @@
 # Site settings
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
+theme: jekyll-theme-basically-basic
 # remote_theme: "alshedivat/al-folio"
 title: "Kyungho Lee"
 baseurl: ""
