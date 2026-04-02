@@ -9,8 +9,4 @@ Hi, I am a PhD candidate in economics at Yale. I study how modern technologies s
 
 My research and academic life have been featured in:
 
-[Yale Economics](https://economics.yale.edu/news/260401/exploring-competition-digital-markets-meet-economics-phd-student-kyungho-lee)
-
-[SBS 문화재단](https://foundation.sbs.co.kr/scholarship/interview/index.html?id=64f82ac9218af467f5fe660b) (in Korean)
-
-[SNU Economics](https://econ.snu.ac.kr/about/news?bm=v&bbsidx=6459) (in Korean)
+[Yale Economics](https://economics.yale.edu/news/260401/exploring-competition-digital-markets-meet-economics-phd-student-kyungho-lee), [SBS 문화재단](https://foundation.sbs.co.kr/scholarship/interview/index.html?id=64f82ac9218af467f5fe660b) (in Korean), [SNU Economics](https://econ.snu.ac.kr/about/news?bm=v&bbsidx=6459) (in Korean)
