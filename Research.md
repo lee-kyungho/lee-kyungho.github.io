@@ -26,7 +26,7 @@ permalink: /research/
   <div class="paper-title">Censorship and steering in platform duopolies</div>
   <div class="paper-authors">with Michael C. Wang</div>
   <div class="paper-presentations">
-    Scheduled for <em>AI at Yale 2026</em>
+    Presented at <em>AI at Yale 2026</em>
   </div>
 </div>
 
