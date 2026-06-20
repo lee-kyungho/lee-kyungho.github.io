@@ -17,8 +17,7 @@ permalink: /research/
     <a href="https://dl.acm.org/doi/10.1145/3736252.3742619">EC '25 extended abstract</a>
   </div>
   <div class="paper-presentations">
-    Presented at <em>APIOC 2024</em>, <em>AI at Yale 2025</em>, <em>ACM EC 2025</em>, <em>MLESC25</em>, <em>World Congress 2025</em><br>
-    Scheduled for <em>Yale FDS: AI for Social Science 2026</em>, <em>ESIF AI+ML 2026</em>
+    Presented at <em>APIOC 2024</em>, <em>AI at Yale 2025</em>, <em>ACM EC 2025</em>, <em>MLESC25</em>, <em>World Congress 2025</em><br>, <em>Yale FDS: AI for Social Science 2026</em>, <em>ESIF AI+ML 2026</em>
   </div>
 </div>
 
