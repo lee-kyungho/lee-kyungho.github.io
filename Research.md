@@ -21,6 +21,8 @@ permalink: /research/
   </div>
 </div>
 
+## Work in Progress
+
 <div class="paper">
   <div class="paper-title">Censorship and steering in platform duopolies</div>
   <div class="paper-authors">with Michael C. Wang</div>
