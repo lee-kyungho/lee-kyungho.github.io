@@ -56,7 +56,7 @@ permalink: /research/
 </div>
 
 <div class="paper">
-  <div class="paper-title"><a href="https://doi.org/10.1016/j.jeconom.2022.03.012">Testing for stochastic dominance in Stata</a></div>
+  <div class="paper-title">Testing for stochastic dominance in Stata</a></div>
   <div class="paper-authors">with Yoon-Jae Whang</div>
   <div class="paper-venue"><em>Stata Journal</em>,forthcoming</div>
   <div class="paper-links">
