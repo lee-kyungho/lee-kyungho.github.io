@@ -55,12 +55,20 @@ permalink: /research/
   <span class="award">★ Best Graduate Student Paper, KAEA 2020</span>
 </div>
 
+<div class="paper">
+  <div class="paper-title"><a href="https://doi.org/10.1016/j.jeconom.2022.03.012">Testing for stochastic dominance in Stata</a></div>
+  <div class="paper-authors">with Yoon-Jae Whang</div>
+  <div class="paper-venue"><em>Stata Journal</em>,forthcoming</div>
+  <div class="paper-links">
+    <a href="https://github.com/lee-kyungho/pysdtest">Python/Stata code</a>
+  </div>
+</div>
+
 ## Software
 
 <div class="paper">
   <div class="paper-title">PySDTest: a Python/Stata package for stochastic dominance tests</div>
   <div class="paper-authors">with Yoon-Jae Whang</div>
-  <div class="paper-venue">Accepted at <em>Stata Journal</em></div>
   <div class="paper-links">
     <a href="https://arxiv.org/abs/2307.10694">arXiv</a>
     <a href="https://github.com/lee-kyungho/pysdtest">Python/Stata code</a>
