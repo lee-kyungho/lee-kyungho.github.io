@@ -56,9 +56,9 @@ permalink: /research/
 </div>
 
 <div class="paper">
-  <div class="paper-title">Testing for stochastic dominance in Stata</a></div>
+  <div class="paper-title">Testing for stochastic dominance in Stata </div>
   <div class="paper-authors">with Yoon-Jae Whang</div>
-  <div class="paper-venue"><em>Stata Journal</em>,forthcoming</div>
+  <div class="paper-venue"><em>Stata Journal</em>, forthcoming</div>
   <div class="paper-links">
     <a href="https://github.com/lee-kyungho/pysdtest">Python/Stata code</a>
   </div>
