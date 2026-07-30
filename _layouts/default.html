@@ -51,11 +51,8 @@
         </a>
 
         <nav class="kl-nav" aria-label="Primary">
-          {% assign p = page.url | remove: '/' %}
-          <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="is-active" aria-current="page"{% endif %}>Home</a>
-          <a href="https://drive.google.com/file/d/1OTJJRU-yEts0HuKB8HjLmHTNkehVmO4K/view?usp=sharing" target="_blank" rel="noopener">CV</a>
-          <a href="{{ '/research/' | relative_url }}"{% if page.url contains 'research' %} class="is-active" aria-current="page"{% endif %}>Research</a>
-          <a href="{{ '/teaching/' | relative_url }}"{% if page.url contains 'teaching' %} class="is-active" aria-current="page"{% endif %}>Teaching</a>
+          <a href="{{ '/assets/CV_kyungholee_July2026.pdf' | relative_url }}" target="_blank" rel="noopener">CV</a>
+          <a href="{{ '/' | relative_url }}#research">Research</a>
         </nav>
 
       </div>

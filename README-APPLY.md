@@ -119,6 +119,16 @@ commit history and revert the commit there.
 
 ---
 
+## Note on the nav
+
+The nav is **CV / Research** only — the site is one page and the "Kyungho Lee"
+brand mark at the left already returns you to the top. To add a Home item back,
+put this line first inside `<nav class="kl-nav">` in `_layouts/default.html`:
+
+```liquid
+<a href="{{ '/' | relative_url }}">Home</a>
+```
+
 ## What these changes do
 
 - Sticky horizontal nav (Home / Research / Teaching) replaces the hamburger sidebar.
@@ -130,5 +140,5 @@ commit history and revert the commit there.
 - Colour: authentic Yale blue `#00356b` (~11:1 contrast on the warm background).
 - Accessibility: skip link, focus rings sitewide, `aria-current` on the active
   nav item, 44px+ tap targets, print styles.
-- Research and Teaching pages restyled; all existing entries kept, including
-  Work in Progress and PySDTest.
+- Research is a section of the home page; all entries kept, including Work in
+  Progress and PySDTest. Teaching is not published.

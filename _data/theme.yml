@@ -46,7 +46,6 @@ google_fonts:
   - name: "Public Sans"
     weights: "400;500;600;700"
 
-# Navigation. About was merged into the home page, so it is no longer listed.
-navigation_pages:
-  - Research.md
-  - Teaching.md
+# Single-page site: the nav is written directly in _layouts/default.html,
+# so no pages are auto-listed here.
+navigation_pages: []
