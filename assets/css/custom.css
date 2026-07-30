@@ -132,6 +132,14 @@ a:hover { color: var(--yale-dark); }
 .kl-nav { margin-left: 8px; }
 
 /* Real brand marks from the repo: full colour, fixed size, no colour inheritance */
+img.kl-brandmark,
+.kl-brandmark svg,
+.kl-footer-links svg {
+  width: 17px !important;
+  height: 17px !important;
+  flex: none;
+  display: block;
+}
 .kl-brandmark {
   display: inline-flex;
   align-items: center;
@@ -140,8 +148,6 @@ a:hover { color: var(--yale-dark); }
   height: 17px;
   flex: none;
 }
-.kl-brandmark svg { width: 100%; height: 100%; display: block; }
-.kl-brandmark svg path, .kl-brandmark svg circle { fill: revert; }
 
 /* ── Main containers ──────────────────────────────────────── */
 .kl-main {
@@ -162,15 +168,6 @@ a:hover { color: var(--yale-dark); }
 }
 .kl-hero-head { grid-column: 1; grid-row: 1; }
 .kl-hero-body { grid-column: 1; grid-row: 2; }
-
-.kl-eyebrow {
-  margin: 0 0 16px;
-  font-size: 13px;
-  font-weight: 700;
-  letter-spacing: .13em;
-  text-transform: uppercase;
-  color: var(--yale);
-}
 
 .kl-name {
   margin: 0;

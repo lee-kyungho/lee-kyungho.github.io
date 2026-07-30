@@ -5,7 +5,6 @@ title: Kyungho Lee
 
 <div class="kl-hero">
   <div class="kl-hero-head">
-    <p class="kl-eyebrow">PhD Candidate &middot; Economics &middot; Yale University</p>
     <h1 class="kl-name">Kyungho Lee</h1>
   </div>
 
