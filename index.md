@@ -6,13 +6,7 @@ title: Kyungho Lee
 <div class="kl-hero">
   <div class="kl-hero-head">
     <p class="kl-eyebrow">PhD Candidate &middot; Economics &middot; Yale University</p>
-    <div class="kl-namerow">
-      <h1 class="kl-name">Kyungho Lee</h1>
-      <a class="kl-btn" href="https://drive.google.com/file/d/1OTJJRU-yEts0HuKB8HjLmHTNkehVmO4K/view?usp=sharing">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" aria-hidden="true"><path d="M14 3v5h5"/><path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-5Z"/></svg>
-        View CV
-      </a>
-    </div>
+    <h1 class="kl-name">Kyungho Lee</h1>
   </div>
 
   <div class="kl-hero-photo">

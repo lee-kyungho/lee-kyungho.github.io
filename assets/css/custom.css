@@ -129,16 +129,19 @@ a:hover { color: var(--yale-dark); }
   border-radius: 2px;
 }
 
-.kl-social { margin-left: auto; display: flex; align-items: center; gap: 2px; }
-.kl-social a {
-  display: flex;
+.kl-nav { margin-left: 8px; }
+
+/* Real brand marks from the repo: full colour, fixed size, no colour inheritance */
+.kl-brandmark {
+  display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 44px; height: 44px;
-  border-radius: 8px;
-  color: #44423d;
+  width: 17px;
+  height: 17px;
+  flex: none;
 }
-.kl-social a:hover { background: var(--yale-wash); color: var(--yale); }
+.kl-brandmark svg { width: 100%; height: 100%; display: block; }
+.kl-brandmark svg path, .kl-brandmark svg circle { fill: revert; }
 
 /* ── Main containers ──────────────────────────────────────── */
 .kl-main {
@@ -178,29 +181,6 @@ a:hover { color: var(--yale-dark); }
   letter-spacing: -.03em;
   color: var(--ink-strong);
 }
-
-.kl-namerow {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-  flex-wrap: wrap;
-}
-
-.kl-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  min-height: 44px;
-  font-family: var(--sans);
-  font-weight: 600;
-  font-size: 15px;
-  padding: 0 18px;
-  border-radius: 9px;
-  background: none;
-  color: var(--yale);
-  border: 1.5px solid var(--yale);
-}
-.kl-btn:hover { background: var(--yale-wash); color: var(--yale-dark); border-color: var(--yale-dark); }
 
 .kl-lede {
   margin: 32px 0 0;
@@ -418,8 +398,17 @@ a:hover { color: var(--yale-dark); }
   flex-wrap: wrap;
 }
 .kl-footer-inner p { margin: 0; font-size: 15px; color: var(--ink-muted); }
-.kl-footer-links { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
-.kl-footer-links a { font-size: 15px; font-weight: 500; color: #44423d; }
+.kl-footer-links { display: flex; align-items: center; gap: 22px; flex-wrap: wrap; }
+.kl-footer-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #44423d;
+}
+.kl-footer-links a svg { flex: none; }
 .kl-footer-links a:hover { color: var(--yale); }
 
 /* ── Responsive ───────────────────────────────────────────── */
@@ -431,7 +420,6 @@ a:hover { color: var(--yale-dark); }
   .kl-hero-body .kl-lede { margin-top: 0; }
   .kl-main, .kl-main--wide { padding: 48px 24px 32px; }
   .kl-header-inner, .kl-footer-inner { padding: 12px 24px; }
-  .kl-social { margin-left: 0; }
 }
 
 @media (max-width: 560px) {
@@ -439,7 +427,6 @@ a:hover { color: var(--yale-dark); }
   .kl-nav { width: 100%; gap: 2px; }
   .kl-nav a { padding: 10px 12px; font-size: 15px; }
   .kl-name { font-size: clamp(38px, 12vw, 52px); }
-  .kl-namerow { gap: 14px; }
   .kl-hero-photo { width: 168px; }
   .kl-fields { grid-template-columns: 1fr; gap: 2px; }
   .kl-fields dd { margin-bottom: 10px; }
