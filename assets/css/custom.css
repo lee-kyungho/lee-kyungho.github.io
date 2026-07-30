@@ -14,8 +14,8 @@
   --yale-dark:  #002247;
   --yale-wash:  rgba(0, 53, 107, .07);
   --yale-ring:  rgba(0, 53, 107, .4);
-  --bg:         #f7f6f2;
-  --bg-alt:     #f2f0ea;
+  --bg:         #ffffff;
+  --bg-alt:     #fafaf8;
   --card:       #ffffff;
   --line:       #e6e3dc;
   --line-soft:  #d9d5cb;
@@ -94,7 +94,7 @@ a:hover { color: var(--yale-dark); }
   position: sticky;
   top: 0;
   z-index: 30;
-  background: rgba(247, 246, 242, .88);
+  background: rgba(255, 255, 255, .9);
   backdrop-filter: saturate(150%) blur(8px);
   border-bottom: 1px solid var(--line);
 }
@@ -304,6 +304,7 @@ img.kl-brandmark,
 .research-page .paper--pub { margin-bottom: 34px; }
 
 .research-page .paper-title {
+  text-wrap: pretty;
   font-family: var(--serif);
   font-weight: 600;
   font-size: 18px;
