@@ -106,7 +106,6 @@ a:hover { color: var(--yale-dark); }
   display: flex;
   align-items: center;
   gap: 24px;
-  flex-wrap: wrap;
 }
 
 .kl-brand { display: flex; align-items: center; gap: 11px; }
@@ -177,7 +176,7 @@ img.kl-brandmark,
 .kl-hero {
   display: grid;
   grid-template-columns: minmax(0, 34em) 240px;
-  grid-template-rows: auto auto;
+  grid-template-rows: auto;
   justify-content: start;
   column-gap: 36px;
   align-items: start;
@@ -189,7 +188,7 @@ img.kl-brandmark,
   font-family: var(--sans);
   font-weight: 700;
   font-size: clamp(48px, 6vw, 76px);
-  line-height: 1.02;
+  line-height: 1.08;
   letter-spacing: -.03em;
   color: var(--ink-strong);
 }
@@ -238,7 +237,7 @@ img.kl-brandmark,
 .kl-hero-photo {
   grid-column: 2;
   grid-row: 1;
-  align-self: center;
+  align-self: start;
   aspect-ratio: 4 / 5;
   width: 240px;
   justify-self: start;
@@ -274,7 +273,7 @@ img.kl-brandmark,
 }
 .research-page h2 {
   margin: 0 0 40px;
-  font-family: var(--serif);
+  font-family: var(--sans);
   font-weight: 700;
   font-size: clamp(48px, 6vw, 76px);
   letter-spacing: -.02em;
@@ -283,7 +282,7 @@ img.kl-brandmark,
   padding: 0;
 }
 .research-page h3 {
-  margin: 48px 0 22px;
+  margin: 0 0 22px;
   font-family: var(--sans);
   font-size: 18px;
   font-weight: 700;
@@ -293,15 +292,16 @@ img.kl-brandmark,
   border: none;
   padding: 0;
 }
-.research-page h3:first-of-type { margin-top: 0; }
+
 
 .research-page .paper {
-  margin-bottom: 34px;
+  margin-bottom: 48px;
   padding: 2px 0 2px 22px;
   border-left: 2.5px solid var(--line-soft);
   transition: border-color .2s ease;
 }
 .research-page .paper:hover { border-left-color: var(--yale); }
+.research-page .paper--pub { margin-bottom: 34px; }
 
 .research-page .paper-title {
   font-family: var(--serif);
@@ -342,17 +342,18 @@ img.kl-brandmark,
   border-radius: 6px;
 }
 .research-page .paper-links a:hover { border-color: var(--yale); color: var(--yale); }
+.research-page .paper-links .award { align-self: center; }
 
 .research-page .paper-presentations {
   margin-top: 12px;
   font-size: 13px;
-  color: var(--ink-faint);
+  color: var(--ink-muted);
   line-height: 1.6;
 }
 .research-page .paper-presentations em {
   font-style: normal;
   font-weight: 600;
-  color: var(--ink-muted);
+  color: var(--ink-soft);
 }
 
 .research-page .paper-badges { margin-top: 12px; }
@@ -360,7 +361,7 @@ img.kl-brandmark,
   display: inline-flex;
   align-items: center;
   font-size: 12.5px;
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: .07em;
   text-transform: uppercase;
   color: #fff;
@@ -419,13 +420,13 @@ img.kl-brandmark,
   font-size: 19px;
   color: var(--ink-strong);
 }
-.kl-course-name span { color: var(--ink-faint); font-weight: 500; font-size: 16px; }
+.kl-course-name span { color: var(--ink-muted); font-weight: 500; font-size: 16px; }
 .kl-course-meta { margin: 5px 0 0; font-size: 15px; color: var(--ink-muted); }
 .kl-term { font-size: 15px; font-weight: 600; color: #44423d; white-space: nowrap; }
 
 /* ── Footer ───────────────────────────────────────────────── */
 .kl-footer {
-  margin-top: 40px;
+  margin-top: 80px;
   border-top: 1px solid var(--line);
   background: var(--bg-alt);
 }
@@ -452,32 +453,22 @@ img.kl-brandmark,
 .kl-footer-links a:hover { color: var(--yale); }
 
 /* ── Responsive ───────────────────────────────────────────── */
-@media (max-width: 860px) {
-  .kl-hero { grid-template-columns: 1fr; grid-template-rows: auto; row-gap: 24px; column-gap: 0; }
-  .kl-hero-body { grid-column: 1; grid-row: auto; }
-  .kl-hero-photo { grid-column: 1; grid-row: auto; width: 200px; }
+@media (max-width: 820px) {
+  .kl-hero { display: flex; flex-direction: column; row-gap: 28px; column-gap: 0; }
+  .kl-hero-photo { order: -1; width: 200px; margin: 0 auto; }
   .kl-hero-body { max-width: 34em; }
-  .kl-hero-body .kl-name {
-  margin: 0;
-  font-family: var(--sans);
-  font-weight: 700;
-  font-size: clamp(48px, 6vw, 76px);
-  line-height: 1.02;
-  letter-spacing: -.03em;
-  color: var(--ink-strong);
-}
-
-.kl-lede { margin-top: 0; }
-  .kl-main, .kl-main--wide { padding: 48px 24px 32px; }
-  .kl-header-inner, .kl-footer-inner { padding: 12px 24px; }
+  .kl-main, .kl-main--wide { padding: 44px 24px 32px; }
+  .kl-header-inner { padding: 12px 24px; }
+  .kl-footer-inner { padding: 12px 24px; flex-wrap: wrap; }
 }
 
 @media (max-width: 560px) {
-  .kl-header-inner { gap: 10px 16px; }
-  .kl-nav { width: 100%; gap: 2px; }
-  .kl-nav a { padding: 10px 12px; font-size: 15px; }
+  .kl-header-inner { gap: 8px 12px; }
+  .kl-nav { margin-left: 0; gap: 2px; }
+  .kl-nav a { padding: 8px 10px; font-size: 15px; }
   .kl-hero-photo { width: 168px; }
-  .kl-name { font-size: 40px; }
+  .kl-name { font-size: 40px; line-height: 1.1; }
+  .kl-lede { margin-top: 20px; }
   .kl-fields { grid-template-columns: 1fr; gap: 2px; }
   .kl-fields dd { margin-bottom: 10px; }
 }
