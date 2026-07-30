@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: page-plain
 title: "Research"
+subtitle: "Working papers, publications, and software."
 permalink: /research/
 ---
 
@@ -40,8 +41,10 @@ permalink: /research/
   <div class="paper-links">
     <a href="https://doi.org/10.1016/j.jpubeco.2023.104951">Paper</a>
   </div>
-  <span class="award">★ Korean Economy Research Award, KEA 2023</span>
-  <span class="award">★ Top 50 Outstanding Research, Ministry of Education 2024</span>
+  <div class="paper-awards">
+    <span class="award">★ Korean Economy Research Award, KEA 2023</span>
+    <span class="award">★ Top 50 Outstanding Research, Ministry of Education 2024</span>
+  </div>
 </div>
 
 <div class="paper">
@@ -52,11 +55,13 @@ permalink: /research/
     <a href="https://doi.org/10.1016/j.jeconom.2022.03.012">Paper</a>
     <a href="https://github.com/lee-kyungho/Testing-for-TSD">MATLAB code</a>
   </div>
-  <span class="award">★ Best Graduate Student Paper, KAEA 2020</span>
+  <div class="paper-awards">
+    <span class="award">★ Best Graduate Student Paper, KAEA 2020</span>
+  </div>
 </div>
 
 <div class="paper">
-  <div class="paper-title">Testing for stochastic dominance in Stata </div>
+  <div class="paper-title">Testing for stochastic dominance in Stata</div>
   <div class="paper-authors">with Yoon-Jae Whang</div>
   <div class="paper-venue"><em>Stata Journal</em>, forthcoming</div>
   <div class="paper-links">
