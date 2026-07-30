@@ -41,16 +41,12 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "Noto Serif"
-    weights: "400;600;700"
-  - name: "Source Sans 3"
-    weights: "400;500;600"
+  - name: "Source Serif 4"
+    weights: "500;600;700"
+  - name: "Public Sans"
+    weights: "400;500;600;700"
 
-# Link to specific internal pages in the navigation.
-# Create a custom list to override the default setting of including links to all
-# pages that have a `title`. Add raw page paths in the order you'd like.
-
+# Navigation. About was merged into the home page, so it is no longer listed.
 navigation_pages:
-  - about.md
   - Research.md
   - Teaching.md
