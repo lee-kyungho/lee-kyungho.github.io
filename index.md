@@ -31,11 +31,6 @@ title: Kyungho Lee
 ### Working papers
 
 <div class="paper">
-  <div class="paper-title">Vertical Integration, Market Power, and Intermediary Incentive: Evidence from Fulfillment by Amazon</div>
-  <div class="paper-badges"><span class="jmp">Job Market Paper</span></div>
-</div>
-
-<div class="paper">
   <div class="paper-title">Copyright and Competition: Estimating Supply and Demand with Unstructured Data</div>
   <div class="paper-authors">with Sukjin Han</div>
   <div class="paper-links">
