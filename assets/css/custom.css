@@ -246,7 +246,7 @@ img.kl-brandmark,
   border: 1px solid var(--line);
   background: var(--bg-alt);
 }
-.kl-hero-photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.kl-hero-photo img { width: 100%; height: 100%; object-fit: cover; object-position: 46% 14%; display: block; }
 
 /* ── Inner page headings ──────────────────────────────────── */
 .kl-page-title {
