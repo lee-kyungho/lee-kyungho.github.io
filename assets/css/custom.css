@@ -271,6 +271,7 @@ img.kl-brandmark,
   margin: 96px 0 0;
   scroll-margin-top: 90px;
 }
+.research-page h2 + h3 { margin-top: 0; }
 .research-page h2 {
   margin: 0 0 40px;
   font-family: var(--sans);
@@ -282,7 +283,7 @@ img.kl-brandmark,
   padding: 0;
 }
 .research-page h3 {
-  margin: 0 0 22px;
+  margin: 56px 0 22px;
   font-family: var(--sans);
   font-size: 18px;
   font-weight: 700;
@@ -296,11 +297,8 @@ img.kl-brandmark,
 
 .research-page .paper {
   margin-bottom: 48px;
-  padding: 2px 0 2px 22px;
-  border-left: 2.5px solid var(--line-soft);
-  transition: border-color .2s ease;
+  padding: 2px 0;
 }
-.research-page .paper:hover { border-left-color: var(--yale); }
 .research-page .paper--pub { margin-bottom: 34px; }
 
 .research-page .paper-title {
