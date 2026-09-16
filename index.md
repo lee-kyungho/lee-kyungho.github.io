@@ -20,7 +20,7 @@ title: Kyungho Lee
   </div>
 
   <div class="kl-hero-photo">
-    <img src="{{ '/assets/images/KL_headshot_2609.jpg' | relative_url }}" alt="Kyungho Lee">
+    <img src="{{ '/assets/images/KL_headshot_2609_web.jpg' | relative_url }}" alt="Kyungho Lee">
   </div>
 </div>
 
