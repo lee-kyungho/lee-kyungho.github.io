@@ -13,14 +13,14 @@ title: Kyungho Lee
       <dt>Primary Field</dt>
       <dd>Industrial Organization</dd>
       <dt>Secondary Fields</dt>
-      <dd>Econometrics</dd>
+      <dd>Applied Microeconomics, Econometrics</dd>
     </dl>
 
     <p class="kl-featured">My academic life has been featured in <a href="https://economics.yale.edu/news/260401/exploring-competition-digital-markets-meet-economics-phd-student-kyungho-lee">Yale Economics</a>, <a href="https://foundation.sbs.co.kr/scholarship/interview/index.html?id=64f82ac9218af467f5fe660b">SBS 문화재단</a>, and <a href="https://econ.snu.ac.kr/about/news?bm=v&amp;bbsidx=6459">SNU Economics</a>.</p>
   </div>
 
   <div class="kl-hero-photo">
-    <img src="{{ '/assets/images/KL_headshot_2410.jpg' | relative_url }}" alt="Kyungho Lee">
+    <img src="{{ '/assets/images/KL_headshot_2609.jpg' | relative_url }}" alt="Kyungho Lee">
   </div>
 </div>
 
@@ -31,7 +31,12 @@ title: Kyungho Lee
 ### Working papers
 
 <div class="paper">
-  <div class="paper-title">Copyright and Competition: Estimating Supply and Demand with Unstructured Data</div>
+  <div class="paper-title">The Effects of Service Integration on Platform Competition and Welfare: Evidence from Fulfillment by Amazon</div>
+  <div class="paper-badges"><span class="jmp">Job Market Paper</span></div>
+</div>
+
+<div class="paper">
+  <div class="paper-title"><a href="https://arxiv.org/abs/2501.16120">Copyright and Competition: Estimating Supply and Demand with Unstructured Data</a></div>
   <div class="paper-authors">with Sukjin Han</div>
   <div class="paper-links">
     <a href="https://arxiv.org/abs/2501.16120">arXiv</a>
@@ -44,6 +49,10 @@ title: Kyungho Lee
 </div>
 
 ### Work in progress
+
+<div class="paper">
+  <div class="paper-title">Automation with Market Power: Amazon's Robotic Warehouses and the Distribution of Welfare</div>
+</div>
 
 <div class="paper">
   <div class="paper-title">Censorship and Steering in Platform Duopolies</div>
@@ -84,7 +93,7 @@ title: Kyungho Lee
 ### Software
 
 <div class="paper">
-  <div class="paper-title">PySDTest: A Python/Stata Package for Stochastic Dominance Tests</div>
+  <div class="paper-title"><a href="https://arxiv.org/abs/2307.10694">PySDTest: A Python/Stata Package for Stochastic Dominance Tests</a></div>
   <div class="paper-authors">with Yoon-Jae Whang</div>
   <div class="paper-links">
     <a href="https://arxiv.org/abs/2307.10694">arXiv</a>
