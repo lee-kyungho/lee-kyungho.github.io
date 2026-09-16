@@ -51,7 +51,13 @@ title: Kyungho Lee
 ### Work in progress
 
 <div class="paper">
-  <div class="paper-title">Automation with Market Power: Amazon's Robotic Warehouses and the Distribution of Welfare</div>
+  <details class="paper-abstract">
+    <summary>
+      <div class="paper-title">Automation with Market Power: Amazon's Robotic Warehouses and the Distribution of Welfare</div>
+      <p class="abstract-cue"><span>&rsaquo;</span>Abstract</p>
+    </summary>
+    <p class="abstract-body">I evaluate the effects of automation on product and labor markets and study how market power shapes the distribution of welfare among consumers, workers, and the firm in the context of Amazon's adoption of robotic warehouses. In a competitive benchmark, adoption lowers variable costs and improves service quality, which benefits consumers. Amazon, however, can exert product market power to retain part of these gains. The retained share depends on the firm's optimal pass-through of cost declines and hence the shape of consumer demand. The effects on the labor market are ambiguous: adoption may expand scale yet displace labor, and labor market power further complicates the net effects. Using data on labor market outcomes, consumer expenditure and warehouse characteristics, I first exploit the staggered introduction of Amazon's robotic warehouses in an event-study design. I find that adoption decreases wages but increases employment in local labor markets. I then build an empirical model in which consumers allocate expenditures across retail stores, workers choose whether to work at an Amazon facility, and Amazon exerts both product and labor market power. I use the model to measure the aggregate and distributional impacts of robot adoption with and without each form of market power, and to conduct policy analyses including minimum wage increases and antitrust enforcement.</p>
+  </details>
 </div>
 
 <div class="paper">

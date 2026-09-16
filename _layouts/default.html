@@ -53,6 +53,7 @@
         <nav class="kl-nav" aria-label="Primary">
           <a href="{{ '/assets/Lee_Kyungho_CV.pdf' | relative_url }}" target="_blank" rel="noopener">CV</a>
           <a href="{{ '/' | relative_url }}#research">Research</a>
+          <button type="button" class="kl-theme-toggle" data-theme-toggle aria-label="Toggle dark mode"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z"/></svg><span data-theme-label>Dark</span></button>
         </nav>
 
       </div>
@@ -71,6 +72,52 @@
         </div>
       </div>
     </footer>
+
+    <script>
+    (function () {
+      var KEY = 'kl-theme';
+      function apply(t) {
+        document.documentElement.setAttribute('data-theme', t);
+        var l = document.querySelector('[data-theme-label]');
+        if (l) l.textContent = t === 'dark' ? 'Light' : 'Dark';
+      }
+      var saved = null;
+      try { saved = localStorage.getItem(KEY); } catch (e) {}
+      apply(saved || 'light');
+      document.addEventListener('click', function (e) {
+        var b = e.target.closest && e.target.closest('[data-theme-toggle]');
+        if (!b) return;
+        var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        try { localStorage.setItem(KEY, next); } catch (e) {}
+        apply(next);
+      }, true);
+
+      function scroller(el) {
+        for (var p = el.parentElement; p; p = p.parentElement) {
+          var o = getComputedStyle(p).overflowY;
+          if ((o === 'auto' || o === 'scroll') && p.scrollHeight > p.clientHeight + 4) return p;
+        }
+        return document.scrollingElement || document.documentElement;
+      }
+      document.addEventListener('click', function (e) {
+        var a = e.target.closest && e.target.closest('a[href$="#research"], a[href^="#"]');
+        if (!a) return;
+        var href = a.getAttribute('href');
+        var id = href.slice(href.indexOf('#') + 1);
+        var t = id && document.getElementById(id);
+        if (!t) return;
+        e.preventDefault();
+        var sc = scroller(t);
+        var h = document.querySelector('.kl-header');
+        var off = (h ? h.getBoundingClientRect().height : 0) + 16;
+        var top = (sc === document.scrollingElement || sc === document.documentElement)
+          ? t.getBoundingClientRect().top + (window.pageYOffset || sc.scrollTop) - off
+          : t.getBoundingClientRect().top - sc.getBoundingClientRect().top + sc.scrollTop - off;
+        sc.scrollTo({ top: Math.max(0, top), behavior: 'smooth' });
+        if (history.replaceState) history.replaceState(null, '', '#' + id);
+      }, true);
+    })();
+    </script>
 
   </body>
 </html>
