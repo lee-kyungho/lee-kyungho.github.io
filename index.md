@@ -30,13 +30,15 @@ title: Kyungho Lee
 
 ### Working papers
 
-<div class="paper">
-  <div class="paper-title">The Effects of Service Integration on Platform Competition and Welfare: Evidence from Fulfillment by Amazon</div>
+<div class="paper" id="job-market-paper">
+  <div class="paper-title"><a href="/research/fulfillment-by-amazon/">The Effects of Service Integration on Platform Competition and Welfare: Evidence from Fulfillment by Amazon</a></div>
+  <p class="paper-description">Does Amazon's logistics service, <a class="case-link" href="https://sell.amazon.com/fulfillment-by-amazon">Fulfillment by Amazon</a>, restrict competition and harm consumers and sellers? I build a novel dataset and study e-commerce competition between Amazon and Walmart, showing evidence speaking to <a class="case-link" href="https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power">FTC v. Amazon (2023)</a>.</p>
   <div class="paper-badges"><span class="jmp">Job Market Paper</span></div>
 </div>
 
 <div class="paper">
   <div class="paper-title"><a href="https://arxiv.org/abs/2501.16120">Copyright and Competition: Estimating Supply and Demand with Unstructured Data</a></div>
+  <p class="paper-description">How should we design copyright policy when technology makes creative goods cheap to produce? We combine economic models with unstructured data (e.g., images and text) to study how copyright protection affects competition, focusing on a visual product—<a class="case-link" href="https://www.myfonts.com/">fonts</a>.</p>
   <div class="paper-authors">with Sukjin Han</div>
   <div class="paper-links">
     <a href="https://arxiv.org/abs/2501.16120">arXiv</a>
@@ -50,18 +52,15 @@ title: Kyungho Lee
 
 ### Work in progress
 
-<div class="paper">
-  <details class="paper-abstract">
-    <summary>
-      <div class="paper-title">Automation with Market Power: Amazon's Robotic Warehouses and the Distribution of Welfare</div>
-      <p class="abstract-cue"><span>&rsaquo;</span>Abstract</p>
-    </summary>
-    <p class="abstract-body">I evaluate the effects of automation on product and labor markets and study how market power shapes the distribution of welfare among consumers, workers, and the firm in the context of Amazon's adoption of robotic warehouses. In a competitive benchmark, adoption lowers variable costs and improves service quality, which benefits consumers. Amazon, however, can exert product market power to retain part of these gains. The retained share depends on the firm's optimal pass-through of cost declines and hence the shape of consumer demand. The effects on the labor market are ambiguous: adoption may expand scale yet displace labor, and labor market power further complicates the net effects. Using data on labor market outcomes, consumer expenditure and warehouse characteristics, I first exploit the staggered introduction of Amazon's robotic warehouses in an event-study design. I find that adoption decreases wages but increases employment in local labor markets. I then build an empirical model in which consumers allocate expenditures across retail stores, workers choose whether to work at an Amazon facility, and Amazon exerts both product and labor market power. I use the model to measure the aggregate and distributional impacts of robot adoption with and without each form of market power, and to conduct policy analyses including minimum wage increases and antitrust enforcement.</p>
-  </details>
+<div class="paper" id="automation-market-power">
+  <div class="paper-title"><a href="/research/automation-market-power/">Automation with Market Power: Amazon's Robotic Warehouses and the Distribution of Welfare</a></div>
+  <p class="paper-description">How does <a class="case-link" href="https://www.aboutamazon.com/news/operations/amazon-robotics-robots-fulfillment-center">Amazon's adoption of robots</a> affect consumers and workers? I examine the role of market power in shaping the incidence of automation among consumers, workers, and Amazon.</p>
+
 </div>
 
-<div class="paper">
-  <div class="paper-title">Censorship and Steering in Platform Duopolies</div>
+<div class="paper" id="censorship-steering">
+  <div class="paper-title"><a href="/research/censorship-steering/">Censorship and Steering in Platform Duopolies</a></div>
+  <p class="paper-description">How does competition affect a platform's incentives to design recommendation algorithms?</p>
   <div class="paper-authors">with Michael C. Wang</div>
   <div class="paper-presentations">
     <em>Presented at</em> AI at Yale 2026
