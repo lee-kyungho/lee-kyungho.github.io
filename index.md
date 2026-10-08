@@ -38,7 +38,7 @@ title: Kyungho Lee
 
 <div class="paper">
   <div class="paper-title"><a href="https://arxiv.org/abs/2501.16120">Copyright and Competition: Estimating Supply and Demand with Unstructured Data</a></div>
-  <p class="paper-description">How should we design copyright policy when technology makes creative goods cheap to produce? We combine economic models with unstructured data (e.g., images and text) to study how copyright protection affects competition, focusing on a visual product—<a class="case-link" href="https://www.myfonts.com/">fonts</a>.</p>
+  <p class="paper-description">How should we design copyright policy when technology makes creative goods cheap to produce? We combine economic models with unstructured data (e.g., images and text) to study the competitive effects of copyright protection, focusing on a visual product—<a class="case-link" href="https://www.myfonts.com/">fonts</a>.</p>
   <div class="paper-authors">with Sukjin Han</div>
   <div class="paper-links">
     <a href="https://arxiv.org/abs/2501.16120">arXiv</a>
