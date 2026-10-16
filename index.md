@@ -31,14 +31,14 @@ title: Kyungho Lee
 ### Working papers
 
 <div class="paper" id="job-market-paper">
-  <div class="paper-title">The Effects of Service Integration on Platform Competition and Welfare: Evidence from Fulfillment by Amazon</div>
-  <p class="paper-description">Does Amazon's logistics service, <a class="case-link" href="https://sell.amazon.com/fulfillment-by-amazon">Fulfillment by Amazon</a>, restrict competition and harm consumers and sellers? I study e-commerce competition between Amazon and Walmart, showing evidence speaking to <a class="case-link" href="https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power">FTC v. Amazon (2023)</a>.</p>
+  <div class="paper-title"><a href="/research/fulfillment-by-amazon/">The Effects of Service Integration on Platform Competition and Welfare: Evidence from Fulfillment by Amazon</a></div>
+  <p class="paper-description">Does Amazon's logistics service, <a class="case-link" href="https://sell.amazon.com/fulfillment-by-amazon">Fulfillment by Amazon</a>, restrict competition and harm consumers and sellers? I build a novel dataset and study e-commerce competition between Amazon and Walmart, showing evidence speaking to <a class="case-link" href="https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power">FTC v. Amazon (2023)</a>.</p>
   <div class="paper-badges"><span class="jmp">Job Market Paper</span></div>
 </div>
 
 <div class="paper">
   <div class="paper-title"><a href="https://arxiv.org/abs/2501.16120">Copyright and Competition: Estimating Supply and Demand with Unstructured Data</a></div>
-  <p class="paper-description">How should we design copyright policy when technology makes creative goods cheap to produce? We combine economic models with unstructured data (e.g., images and text) to study the competitive effects of copyright protection, focusing on a visual product—<a class="case-link" href="https://www.myfonts.com/">fonts</a>.</p>
+  <p class="paper-description">How should we design copyright policy when technology makes creative goods cheap to produce? We combine economic models with unstructured data (e.g., images and text) to study how copyright protection affects competition, focusing on a visual product—<a class="case-link" href="https://www.myfonts.com/">fonts</a>.</p>
   <div class="paper-authors">with Sukjin Han</div>
   <div class="paper-links">
     <a href="https://arxiv.org/abs/2501.16120">arXiv</a>
@@ -50,22 +50,26 @@ title: Kyungho Lee
   </div>
 </div>
 
+<div class="paper" id="censorship-steering">
+  <div class="paper-title"><a href="/research/censorship-steering/">Censorship and Steering in Platform Duopolies</a></div>
+  <p class="paper-description">How does competition affect a platform's incentives to design recommendation algorithms?</p>
+  <div class="paper-authors">with Michael C. Wang</div>
+  <div class="paper-links"><a href="/research/censorship-steering/">Abstract</a></div>
+  <div class="paper-presentations">
+    <em>Presented at</em> AI at Yale 2026
+  </div>
+</div>
+
 ### Work in progress
 
 <div class="paper" id="automation-market-power">
   <div class="paper-title"><a href="/research/automation-market-power/">Automation with Market Power: Amazon's Robotic Warehouses and the Distribution of Welfare</a></div>
   <p class="paper-description">How does <a class="case-link" href="https://www.aboutamazon.com/news/operations/amazon-robotics-robots-fulfillment-center">Amazon's adoption of robots</a> affect consumers and workers? I examine the role of market power in shaping the incidence of automation among consumers, workers, and Amazon.</p>
+  <div class="paper-links"><a href="/research/automation-market-power/">Abstract</a></div>
 
 </div>
 
-<div class="paper" id="censorship-steering">
-  <div class="paper-title"><a href="/research/censorship-steering/">Censorship and Steering in Platform Duopolies</a></div>
-  <p class="paper-description">How does competition affect a platform's incentives to design recommendation algorithms?</p>
-  <div class="paper-authors">with Michael C. Wang</div>
-  <div class="paper-presentations">
-    <em>Presented at</em> AI at Yale 2026
-  </div>
-</div>
+
 
 ### Publications
 
