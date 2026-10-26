@@ -7,7 +7,7 @@ title: Kyungho Lee
   <div class="kl-hero-body">
     <h1 class="kl-name">Kyungho Lee</h1>
 
-    <p class="kl-lede">Welcome. I am an empirical IO economist and PhD candidate in economics at Yale, interested in digital markets. I am on the job market 2026&ndash;2027.</p>
+    <p class="kl-lede">Welcome. I am an empirical IO economist and PhD candidate at Yale, interested in digital markets. I am on the job market 2026&ndash;2027.</p>
 
     <dl class="kl-fields">
       <dt>Primary Field</dt>
