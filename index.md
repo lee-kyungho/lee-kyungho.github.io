@@ -50,6 +50,14 @@ title: Kyungho Lee
   </div>
 </div>
 
+### Work in progress
+
+<div class="paper" id="automation-market-power">
+  <div class="paper-title"><a href="/research/automation-market-power/">Automation with Market Power: Amazon's Robotic Warehouses and the Distribution of Welfare</a></div>
+  <p class="paper-description"> A few tech firms are leading the development and deployment of automation technologies. I examine the role of market power in shaping the incidence of automation among consumers, workers, and the firm in the context of <a class="case-link" href="https://www.aboutamazon.com/news/operations/amazon-robotics-robots-fulfillment-center">Amazon's robots</a>.</p>
+  <div class="paper-links"><a href="/research/automation-market-power/">Abstract</a></div>
+</div>
+
 <div class="paper" id="censorship-steering">
   <div class="paper-title"><a href="/research/censorship-steering/">Censorship and Steering in Platform Duopolies</a></div>
   <p class="paper-description">How does competition affect a platform's incentives to design recommendation algorithms?</p>
@@ -59,17 +67,6 @@ title: Kyungho Lee
     <em>Presented at</em> AI at Yale 2026
   </div>
 </div>
-
-### Work in progress
-
-<div class="paper" id="automation-market-power">
-  <div class="paper-title"><a href="/research/automation-market-power/">Automation with Market Power: Amazon's Robotic Warehouses and the Distribution of Welfare</a></div>
-  <p class="paper-description"> A few tech firms are leading the development and deployment of automation technologies. I examine the role of market power in shaping the incidence of automation among consumers, workers, and the firm in the context of <a class="case-link" href="https://www.aboutamazon.com/news/operations/amazon-robotics-robots-fulfillment-center">Amazon's robots</a>.</p>
-  <div class="paper-links"><a href="/research/automation-market-power/">Abstract</a></div>
-
-</div>
-
-
 
 ### Publications
 
