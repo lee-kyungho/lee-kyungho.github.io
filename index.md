@@ -16,7 +16,7 @@ title: Kyungho Lee
       <dd>Applied Microeconomics, Econometrics</dd>
     </dl>
 
-    <p class="kl-featured">My academic life has been featured in <a href="https://economics.yale.edu/news/260401/exploring-competition-digital-markets-meet-economics-phd-student-kyungho-lee">Yale Economics</a>, <a href="https://foundation.sbs.co.kr/scholarship/interview/index.html?id=64f82ac9218af467f5fe660b">SBS 문화재단</a>, and <a href="https://econ.snu.ac.kr/about/news?bm=v&amp;bbsidx=6459">SNU Economics</a>.</p>
+    <p class="kl-featured">Here are my <a href="https://lee-kyungho.github.io/assets/Lee_Kyungho_JMP.pdf">JMP</a>, <a href="https://lee-kyungho.github.io/assets/Lee_Kyungho_CV.pdf">CV</a>, and <a href="https://lee-kyungho.github.io/assets/Lee_Kyungho_RS.pdf">Research Statement</a>. My academic life has been featured in <a href="https://economics.yale.edu/news/260401/exploring-competition-digital-markets-meet-economics-phd-student-kyungho-lee">Yale Economics</a>, <a href="https://foundation.sbs.co.kr/scholarship/interview/index.html?id=64f82ac9218af467f5fe660b">SBS 문화재단</a>, and <a href="https://econ.snu.ac.kr/about/news?bm=v&amp;bbsidx=6459">SNU Economics</a>.</p>
   </div>
 
   <div class="kl-hero-photo">
