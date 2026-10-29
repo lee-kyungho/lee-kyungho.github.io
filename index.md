@@ -33,7 +33,7 @@ title: Kyungho Lee
 <div class="paper" id="job-market-paper">
   <div class="paper-title"><a href="https://lee-kyungho.github.io/assets/Lee_Kyungho_JMP.pdf">The Effects of Service Integration on Platform Competition and Welfare: Evidence from Fulfillment by Amazon</a></div>
   <p class="paper-description">Does Amazon's logistics service, <a class="case-link" href="https://sell.amazon.com/fulfillment-by-amazon">Fulfillment by Amazon</a>, restrict competition and harm consumers and sellers? I build a novel dataset and study e-commerce competition between Amazon and Walmart, showing evidence speaking to <a class="case-link" href="https://www.ftc.gov/news-events/news/press-releases/2023/09/ftc-sues-amazon-illegally-maintaining-monopoly-power">FTC v. Amazon (2023)</a>.</p>
-  <div class="paper-badges"><a class="jmp" href="https://lee-kyungho.github.io/assets/Lee_Kyungho_JMP.pdf">Job Market Paper</a></div>
+  <div class="paper-badges"><a class="jmp" href="https://lee-kyungho.github.io/assets/Lee_Kyungho_JMP.pdf">Job Market Paper</a> <a class="extended-abstract" href="/research/fulfillment-by-amazon/extended-abstract/">Extended abstract</a></div>
 </div>
 
 <div class="paper">
